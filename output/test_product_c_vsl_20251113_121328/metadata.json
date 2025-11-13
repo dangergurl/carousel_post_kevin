@@ -1,0 +1,72 @@
+{
+  "product_name": "Test Product C",
+  "product_price": 29.99,
+  "product_category": "general",
+  "brand": "TestBrand",
+  "slide_count": 10,
+  "created_at": "2025-11-13T12:13:28.969549",
+  "overlay_style": "TikTok-style (white text with dark outline)",
+  "product_model": "recraft",
+  "slides": [
+    {
+      "slide_number": 1,
+      "script": "I forgot my password 3 times in one day. Literally locked myself out of every account. \ud83e\udd26\u200d\u2640\ufe0f Has this happened to you?",
+      "image_prompt": "A frustrated woman staring at a laptop screen showing \"Password Incorrect\" error messages, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 1"
+    },
+    {
+      "slide_number": 2,
+      "script": "It wasn't just passwords. I'd walk into rooms and forget why. Lose my train of thought mid-sentence. At only 42, I felt like I was losing my mind.",
+      "image_prompt": "A confused middle-aged woman standing in the middle of a room with a bewildered expression, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 2"
+    },
+    {
+      "slide_number": 3,
+      "script": "What doctors don't tell you is that memory loss can start in your 30s. While I was struggling, a hidden truth was being suppressed by Big Pharma...",
+      "image_prompt": "Shadowy figures whispering behind a concerned woman, with brain scans and memory loss charts in the background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 3"
+    },
+    {
+      "slide_number": 4,
+      "script": "My sister, a neuroscientist, pulled me aside one day. She revealed a natural memory booster used by top Silicon Valley execs. The research was groundbreaking.",
+      "image_prompt": "Two sisters having an intense conversation in a cozy living room, with scientific research papers scattered on the coffee table, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 4"
+    },
+    {
+      "slide_number": 5,
+      "script": "This Nobel Prize-nominated formula was originally developed for Alzheimer's patients. But its cognitive-enhancing effects were undeniable. I had to try it.",
+      "image_prompt": "A hand holding a sleek, futuristic supplement bottle with a Nobel Prize medal in the background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 5"
+    },
+    {
+      "slide_number": 6,
+      "script": "Day 3: I noticed I wasn't losing my keys as often. Day 7: I could recall names effortlessly. Week 2: I was razor-sharp at work, tackling complex projects with ease.",
+      "image_prompt": "A smiling woman confidently leading a meeting in a high-tech conference room, with colleagues looking impressed, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 6"
+    },
+    {
+      "slide_number": 7,
+      "script": "My skeptical husband started taking it too. Now he's the one reminding ME about upcoming events! My mom says I've never sounded better on our weekly calls.",
+      "image_prompt": "A happy older couple looking at a shared calendar on a smartphone, with the woman giving a thumbs up, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 7"
+    },
+    {
+      "slide_number": 8,
+      "script": "I now have laser focus, crystal-clear memory, and unshakeable mental clarity. No more forgotten passwords, no more brain fog. I feel like I've gained superpowers.",
+      "image_prompt": "A radiant woman standing tall with a glowing brain hologram floating above her head, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 8"
+    },
+    {
+      "slide_number": 9,
+      "script": "Introducing Test Product C by TestBrand. The only memory supplement with the patented, pharmaceutical-grade CogniBoost Complex. Unlock your brain's full potential.",
+      "image_prompt": "A sleek, high-end supplement bottle with \"Test Product C\" label and brain hologram in the background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 9"
+    },
+    {
+      "slide_number": 10,
+      "script": "Test Product C sells out every few weeks. Don't wait until your memory gets worse. I wish I'd found this years ago. Tap to claim your supply before it's gone!",
+      "image_prompt": "A hand urgently tapping a \"Buy Now\" button on a smartphone screen showing Test Product C, with \"Limited Supply\" warning, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 10"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+
+VSL Script for Test Product C
+==================================================
+
+Product: Test Product C
+Brand: TestBrand
+Price: $29.99
+Category: general
+Style: TikTok-style (white text with dark outline)
+Product Model: RECRAFT
+
+SLIDES:
+
+Slide 1:
+Purpose: VSL Slide 1
+Script: I forgot my password 3 times in one day. Literally locked myself out of every account. 🤦‍♀️ Has this happened to you?
+Image Prompt: A frustrated woman staring at a laptop screen showing "Password Incorrect" error messages, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 2:
+Purpose: VSL Slide 2
+Script: It wasn't just passwords. I'd walk into rooms and forget why. Lose my train of thought mid-sentence. At only 42, I felt like I was losing my mind.
+Image Prompt: A confused middle-aged woman standing in the middle of a room with a bewildered expression, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 3:
+Purpose: VSL Slide 3
+Script: What doctors don't tell you is that memory loss can start in your 30s. While I was struggling, a hidden truth was being suppressed by Big Pharma...
+Image Prompt: Shadowy figures whispering behind a concerned woman, with brain scans and memory loss charts in the background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 4:
+Purpose: VSL Slide 4
+Script: My sister, a neuroscientist, pulled me aside one day. She revealed a natural memory booster used by top Silicon Valley execs. The research was groundbreaking.
+Image Prompt: Two sisters having an intense conversation in a cozy living room, with scientific research papers scattered on the coffee table, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 5:
+Purpose: VSL Slide 5
+Script: This Nobel Prize-nominated formula was originally developed for Alzheimer's patients. But its cognitive-enhancing effects were undeniable. I had to try it.
+Image Prompt: A hand holding a sleek, futuristic supplement bottle with a Nobel Prize medal in the background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 6:
+Purpose: VSL Slide 6
+Script: Day 3: I noticed I wasn't losing my keys as often. Day 7: I could recall names effortlessly. Week 2: I was razor-sharp at work, tackling complex projects with ease.
+Image Prompt: A smiling woman confidently leading a meeting in a high-tech conference room, with colleagues looking impressed, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 7:
+Purpose: VSL Slide 7
+Script: My skeptical husband started taking it too. Now he's the one reminding ME about upcoming events! My mom says I've never sounded better on our weekly calls.
+Image Prompt: A happy older couple looking at a shared calendar on a smartphone, with the woman giving a thumbs up, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 8:
+Purpose: VSL Slide 8
+Script: I now have laser focus, crystal-clear memory, and unshakeable mental clarity. No more forgotten passwords, no more brain fog. I feel like I've gained superpowers.
+Image Prompt: A radiant woman standing tall with a glowing brain hologram floating above her head, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 9:
+Purpose: VSL Slide 9
+Script: Introducing Test Product C by TestBrand. The only memory supplement with the patented, pharmaceutical-grade CogniBoost Complex. Unlock your brain's full potential.
+Image Prompt: A sleek, high-end supplement bottle with "Test Product C" label and brain hologram in the background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 10:
+Purpose: VSL Slide 10
+Script: Test Product C sells out every few weeks. Don't wait until your memory gets worse. I wish I'd found this years ago. Tap to claim your supply before it's gone!
+Image Prompt: A hand urgently tapping a "Buy Now" button on a smartphone screen showing Test Product C, with "Limited Supply" warning, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+
+UPLOAD INSTRUCTIONS:
+1. Upload slides in order (vsl_slide_01.jpg, vsl_slide_02.jpg, etc.)
+2. Use TikTok Shop carousel format
+3. Each slide has professional text overlay with TikTok-style formatting
+4. Monitor engagement and adjust posting strategy as needed
+
+Created: 2025-11-13T12:13:28.969549
