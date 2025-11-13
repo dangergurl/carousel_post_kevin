@@ -1,0 +1,72 @@
+{
+  "product_name": "Test Product D",
+  "product_price": 29.99,
+  "product_category": "general",
+  "brand": "TestBrand",
+  "slide_count": 10,
+  "created_at": "2025-11-13T12:14:56.220139",
+  "overlay_style": "TikTok-style (white text with dark outline)",
+  "product_model": "recraft",
+  "slides": [
+    {
+      "slide_number": 1,
+      "script": "I forgot my password 3 times in one day. I couldn't focus at work, felt like my brain was in a fog. Sound familiar?",
+      "image_prompt": "Frustrated woman staring at computer screen with hands on head, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 1"
+    },
+    {
+      "slide_number": 2,
+      "script": "It got worse\u2014walking into rooms and forgetting why, losing my train of thought mid-sentence. My productivity plummeted and I started making careless mistakes. I felt like I was losing my mind.",
+      "image_prompt": "Confused woman standing in doorway with puzzled expression, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 2"
+    },
+    {
+      "slide_number": 3,
+      "script": "What doctors don't tell you? Brain fog and memory loss affect millions, even at young ages. While I was struggling, a hidden solution already existed\u2014one that Big Pharma doesn't want you to know about.",
+      "image_prompt": "Shadowy figures whispering in a dark alley, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 3"
+    },
+    {
+      "slide_number": 4,
+      "script": "My co-worker pulled me aside one day. \"I was just like you,\" she said, \"until I discovered this.\" She showed me a natural nootropic used by top Silicon Valley execs to stay sharp. The science behind it was impressive.",
+      "image_prompt": "Two women having an intense conversation in an office break room, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 4"
+    },
+    {
+      "slide_number": 5,
+      "script": "Turns out, the key ingredient has been used for centuries in ancient medicinal traditions. Modern studies showed it can improve memory, focus, and mental clarity\u2014without the side effects of prescription drugs. I had to try it.",
+      "image_prompt": "Ancient Chinese medical scroll showing herbal illustrations, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 5"
+    },
+    {
+      "slide_number": 6,
+      "script": "The changes were unbelievable. Day 3: I stopped losing my keys. Day 7: I could concentrate for hours. Week 2: My boss praised my razor-sharp focus. After a month, it felt like a fog had lifted from my brain.",
+      "image_prompt": "Smiling woman holding up a glowing report card with an A+ grade, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 6"
+    },
+    {
+      "slide_number": 7,
+      "script": "Even my skeptical husband was blown away. \"You seem like a new person,\" he said. My mom started asking what my secret was. Coworkers joked that I must be a genius. But it wasn't me\u2014it was this incredible discovery.",
+      "image_prompt": "Amazed husband looking at his smiling wife with surprise and admiration, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 7"
+    },
+    {
+      "slide_number": 8,
+      "script": "Now I'm sharper than ever. I can juggle a dozen projects without breaking a sweat. I'm more creative, articulate, and productive than I was in my 20s. And I'm not the only one\u2014thousands have experienced the same life-changing results.",
+      "image_prompt": "Confident woman standing at a whiteboard covered in complex diagrams and equations, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 8"
+    },
+    {
+      "slide_number": 9,
+      "script": "So what's this \"miracle molecule\"? It's called Test Product D\u2014a proprietary blend of the purest, most potent brain-boosting nutrients. TestBrand's patented extraction process ensures maximum bioavailability for unparalleled results.",
+      "image_prompt": "Scientist in a lab coat examining a glowing green liquid in a beaker, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 9"
+    },
+    {
+      "slide_number": 10,
+      "script": "But you have to act fast. Test Product D has already transformed the lives of over 50,000 people\u2014and supplies are running out. Don't wait until your brain fog turns into something worse. Click the link and try it risk-free today. Your clearest, sharpest mind awaits.",
+      "image_prompt": "Closeup of a hand urgently clicking a glowing \"ORDER NOW\" button on a phone screen, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 10"
+    }
+  ]
+}
