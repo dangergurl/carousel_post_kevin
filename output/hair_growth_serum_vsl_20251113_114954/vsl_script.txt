@@ -1,0 +1,81 @@
+
+VSL Script for Hair Growth Serum
+==================================================
+
+Product: Hair Growth Serum
+Brand: LuxeLocks
+Price: $39.99
+Category: haircare
+Style: TikTok-style (white text with dark outline)
+Product Model: RECRAFT
+
+SLIDES:
+
+Slide 1:
+Purpose: VSL Slide 1
+Script: I still remember the day I found my first gray hair at 27. I panicked, plucking it out immediately. But they just kept coming...
+Image Prompt: Close-up shot of a woman's hand plucking a gray hair from her head with a concerned expression, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 2:
+Purpose: VSL Slide 2
+Script: Within a year, I had visible patches of gray and my hair was thinning. I felt like I aged a decade overnight. I was too embarrassed to go out without a hat.
+Image Prompt: Woman looking at herself in the mirror, visibly upset at her graying, thinning hair, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 3:
+Purpose: VSL Slide 3
+Script: I tried everything—expensive salon treatments, supplements, even those gimmicky scalp massagers. Nothing worked. But here's what most hair experts don't tell you...
+Image Prompt: Montage of failed hair treatments - pills, shampoo bottles, scalp massager, with a large red X over them, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 4:
+Purpose: VSL Slide 4
+Script: While I was struggling, my mom's hairstylist revealed an underground hair growth secret from South Korea. It's been used by K-pop stars for years to maintain luscious, youthful hair.
+Image Prompt: Whispering hairstylist holding a mysterious serum bottle, with Korean text in the background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 5:
+Purpose: VSL Slide 5
+Script: The key is a rare enzyme called "FGF-5" that reactivates dormant hair follicles. It's been clinically proven to regrow hair in 93.5% of people. But you won't find it in stores...
+Image Prompt: Scientific diagram of FGF-5 enzyme stimulating hair follicles, with research charts and percentages, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 6:
+Purpose: VSL Slide 6
+Script: Day 3: I noticed less shedding in the shower. Day 7: Bald patches started filling in. Week 2: Grays were disappearing and my hair looked thicker than it had in years.
+Image Prompt: Timeline transformation of woman's hair from thin and gray to thick and lustrous over 2 weeks, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 7:
+Purpose: VSL Slide 7
+Script: My husband was shocked. He said I looked 10 years younger. Even my most skeptical friends started asking for my secret. They couldn't believe it was all from a serum.
+Image Prompt: Candid photo of woman smiling with her husband, both looking amazed at her hair transformation, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 8:
+Purpose: VSL Slide 8
+Script: Now I have the confidence to go out without hats or extensions. My hair is fuller, shinier and healthier than it's been since my 20s. I feel like myself again.
+Image Prompt: Woman confidently walking down the street, hair blowing in the wind, looking radiant and youthful, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 9:
+Purpose: VSL Slide 9
+Script: Introducing LuxeLocks Hair Growth Serum, the only formula with clinical-strength FGF-5 for guaranteed results. Trusted by top Korean hair clinics for decades.
+Image Prompt: Glamour shot of LuxeLocks Hair Growth Serum bottle with a spotlight effect, next to glowing reviews, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 10:
+Purpose: VSL Slide 10
+Script: LuxeLocks sells out every month and is rarely available outside of South Korea. Don't wait until your hair thins even more. Order now to reserve your 3-month supply before it's gone.
+Image Prompt: Urgent "Low Stock" warning sign next to a calendar showing LuxeLocks selling out monthly, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+
+UPLOAD INSTRUCTIONS:
+1. Upload slides in order (vsl_slide_01.jpg, vsl_slide_02.jpg, etc.)
+2. Use TikTok Shop carousel format
+3. Each slide has professional text overlay with TikTok-style formatting
+4. Monitor engagement and adjust posting strategy as needed
+
+Created: 2025-11-13T11:49:54.603934
