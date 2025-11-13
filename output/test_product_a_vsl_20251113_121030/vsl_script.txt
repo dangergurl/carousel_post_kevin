@@ -1,0 +1,81 @@
+
+VSL Script for Test Product A
+==================================================
+
+Product: Test Product A
+Brand: TestBrand
+Price: $29.99
+Category: general
+Style: TikTok-style (white text with dark outline)
+Product Model: RECRAFT
+
+SLIDES:
+
+Slide 1:
+Purpose: VSL Slide 1
+Script: I forgot my email password 3 times in one day last week. Talk about embarrassing! 🤦‍♀️ Has this ever happened to you?
+Image Prompt: Ultra photorealistic image of a frustrated young woman trying to log into her laptop, shot in 9:16 vertical format with natural lighting, 16k resolution, on a Canon EOS R5 with a Canon RF 50mm f/1.2L USM lens, depth of field effect, --s 750
+---
+
+Slide 2:
+Purpose: VSL Slide 2
+Script: Turns out, I'm not alone. Memory loss affects millions of people, even in their 30s and 40s. Walking into rooms and forgetting why, losing your train of thought mid-sentence, sound familiar? 🧠😕
+Image Prompt: Ultra photorealistic 9:16 vertical image of a man standing confused in a room, trying to remember something, natural lighting, 16k HDR, shot on Canon EOS R5 with Canon RF 50mm f/1.2L USM, intricate details, depth of field, --s 750
+---
+
+Slide 3:
+Purpose: VSL Slide 3
+Script: What doctors don't tell you is that our modern diet is starving our brains. 🍔🍟 While I was struggling, the solution was hiding in plain sight...
+Image Prompt: Ultra photorealistic 9:16 vertical image contrasting a table of junk food with colorful fruits and vegetables, 16k resolution, natural lighting, HDR, shot on Canon EOS R5 with Canon RF 50mm f/1.2L USM lens, depth of field, --s 750
+---
+
+Slide 4:
+Purpose: VSL Slide 4
+Script: My best friend, a neuroscientist, pulled me aside one day. "I think I know what can help," she said, handing me a strange-looking leaf. 🍃 Turns out, it's been used for centuries to boost brain function!
+Image Prompt: Ultra photorealistic shot of a woman's hand holding a vibrant green leaf, 9:16 vertical format, 16k, natural lighting, HDR, captured on Canon EOS R5 with Canon RF 50mm f/1.2L USM, intricate details, depth of field, --s 750
+---
+
+Slide 5:
+Purpose: VSL Slide 5
+Script: The science backed her up. This plant, Bacopa Monnieri, has been clinically shown to improve memory, focus, and mental clarity. 🧬🔬 It's even been used in ancient Ayurvedic medicine for over 3,000 years!
+Image Prompt: Ultra photorealistic 9:16 vertical image of a scientist in a lab coat examining a green plant under a microscope, 16k resolution, natural lighting, HDR, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM lens, depth of field, --s 750
+---
+
+Slide 6:
+Purpose: VSL Slide 6
+Script: I started taking it daily, and the results were mind-blowing. 🤯 Day 3: I stopped losing my keys. Day 7: I could focus for hours without brain fog. Week 2: My recall speed was lightning-fast. The transformation was unreal!
+Image Prompt: Ultra photorealistic 9:16 vertical format image showing a smiling woman effortlessly juggling work tasks, 16k, natural lighting, HDR, captured on Canon EOS R5 with Canon RF 50mm f/1.2L USM, intricate details, depth of field, --s 750
+---
+
+Slide 7:
+Purpose: VSL Slide 7
+Script: My husband was skeptical at first, but after seeing my results, he started taking it too. Now, he's sharper than ever at work, and even my mom says she's never seen him so clearheaded. 😲
+Image Prompt: Ultra photorealistic vertical image of a smiling older woman hugging her impressed-looking adult son, 9:16 format, 16k resolution, natural lighting, HDR, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM lens, depth of field, --s 750
+---
+
+Slide 8:
+Purpose: VSL Slide 8
+Script: Thanks to this discovery, I now have laser-sharp focus, unshakeable memory, and all-day mental energy. No more forgotten passwords, no more mental fatigue, no more feeling like I'm losing my edge. 🧠💪
+Image Prompt: Ultra photorealistic 9:16 vertical shot of a confident woman crushing a presentation at work, 16k, natural lighting, HDR, captured on Canon EOS R5 with Canon RF 50mm f/1.2L USM, intricate details, depth of field, --s 750
+---
+
+Slide 9:
+Purpose: VSL Slide 9
+Script: The secret? It's TestBrand's MindBoost Bacopa Monnieri Extract. 🌿 Ethically sourced from pristine regions of India and clinically tested for purity and potency. This pharmaceutical-grade supplement is changing lives.
+Image Prompt: Ultra photorealistic 9:16 vertical product shot of TestBrand's MindBoost Bacopa Monnieri Extract bottle against a clean white background, 16k resolution, studio lighting, HDR, captured with Canon EOS R5, Canon RF 50mm f/1.2L USM lens, intricate details, depth of field, --s 750
+---
+
+Slide 10:
+Purpose: VSL Slide 10
+Script: MindBoost is flying off the shelves and sells out every few weeks. 😱 Don't wait until your memory gets even worse. Take control of your cognitive health today, so you can feel as sharp as you did 10 years ago! Tap the link to see if MindBoost is still available. 🔗🧠
+Image Prompt: Ultra photorealistic 9:16 vertical image of a person's hand urgently tapping a glowing "Buy Now" button on a smartphone screen, 16k resolution, dramatic lighting, HDR, shot on Canon EOS R5 with Canon RF 50mm f/1.2L USM lens, depth of field, --s 750
+---
+
+
+UPLOAD INSTRUCTIONS:
+1. Upload slides in order (vsl_slide_01.jpg, vsl_slide_02.jpg, etc.)
+2. Use TikTok Shop carousel format
+3. Each slide has professional text overlay with TikTok-style formatting
+4. Monitor engagement and adjust posting strategy as needed
+
+Created: 2025-11-13T12:10:30.039980
