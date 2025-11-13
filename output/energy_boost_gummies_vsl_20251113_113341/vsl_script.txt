@@ -1,0 +1,81 @@
+
+VSL Script for Energy Boost Gummies
+==================================================
+
+Product: Energy Boost Gummies
+Brand: VitalLife
+Price: $24.99
+Category: supplements
+Style: TikTok-style (white text with dark outline)
+Product Model: RECRAFT
+
+SLIDES:
+
+Slide 1:
+Purpose: VSL Slide 1
+Script: I forgot my email password 3 times in one day. My brain felt like it was in a fog. Sound familiar?
+Image Prompt: Ultra photorealistic image of a frustrated man staring at a computer screen, rubbing his forehead, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 2:
+Purpose: VSL Slide 2
+Script: I used to be so sharp, but lately I've been struggling to focus at work, losing my train of thought mid-sentence, and feeling exhausted by 2pm. I chalked it up to getting older, but deep down, I knew something wasn't right.
+Image Prompt: Ultra photorealistic image of a tired-looking woman rubbing her eyes at an office desk, papers scattered everywhere, clock showing 2:15pm, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 3:
+Purpose: VSL Slide 3
+Script: What doctors don't tell you is that chronic brain fog and low energy can be early warning signs of serious cognitive decline. While I was struggling to get through each day, I had no idea my brain health was at risk.
+Image Prompt: Ultra photorealistic close-up of a doctor's face with a concerned expression, bright lighting from medical exam room, stethoscope around neck, 16k, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 4:
+Purpose: VSL Slide 4
+Script: Then one day, my sister, a neuroscientist, told me about a breakthrough brain-boosting nutrient blend that was getting amazing results in clinical trials. She said it was like a "wake-up call" for sluggish brain cells.
+Image Prompt: Ultra photorealistic image of two women, one in a lab coat, having an intense conversation in a bright, modern laboratory setting, microscopes and scientific equipment in background, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 5:
+Purpose: VSL Slide 5
+Script: The key nutrients had been shown to improve focus, mental clarity and overall brain function in double-blind, placebo-controlled studies. Top neurologists were already recommending it to patients. I knew I had to try it.
+Image Prompt: Ultra photorealistic image of a medical journal article with graphs showing improved brain function, a hand pointing to key results, 16k, bright lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 6:
+Purpose: VSL Slide 6
+Script: Day 3: I noticed I wasn't losing my keys as often. Day 7: I could power through my whole workday without that afternoon slump. Week 2: My mental clarity and focus were better than they'd been in years.
+Image Prompt: Ultra photorealistic image of a smiling man looking energized and holding up a set of keys in front of a neat, organized desk, calendar on wall showing 2 week progress, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 7:
+Purpose: VSL Slide 7
+Script: Even my husband was shocked. He said "You're like a new person. What's your secret?" My mom started taking it too, and now she's sharper than ever at 70. She tells everyone it's her "cognition supercharger.
+Image Prompt: Ultra photorealistic image of a surprised-looking older woman having tea with her daughter, both smiling and engaged in lively conversation, cozy sunlit kitchen setting, 16k, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 8:
+Purpose: VSL Slide 8
+Script: Now, I'm breezing through my to-do lists, I have all-day energy and focus, and I feel mentally sharper than I have in decades. It's not just a boost - it's whole-brain rejuvenation.
+Image Prompt: Ultra photorealistic image of an energetic woman checking off a long to-do list, stack of completed paperwork on desk, clock showing 5pm, bright modern office setting, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 9:
+Purpose: VSL Slide 9
+Script: The brain boosting breakthrough? VitalLife Energy Boost Gummies. Powered by a patented, medical-grade nutrient blend, in easy-to-take gummies for all-day brain support. This is the real deal.
+Image Prompt: Ultra photorealistic product image of VitalLife Energy Boost Gummies bottle and gummies spilling out, label clearly visible, surrounded by vibrant brain imagery and energetic auras, 16k, bright lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 10:
+Purpose: VSL Slide 10
+Script: VitalLife is so confident you'll feel the brain boost, they offer a 100% money-back guarantee. But hurry - they've sold out 3 times this month already! Trust me, your brain will thank you. Don't wait until you're struggling to remember your own name. Fuel your brain today.
+Image Prompt: Ultra photorealistic image of a hand holding a VitalLife gummy up to smiling lips, with "100% Money-Back Guarantee" and "Limited Supply" graphics, vibrant colorful background, 16k, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+
+UPLOAD INSTRUCTIONS:
+1. Upload slides in order (vsl_slide_01.jpg, vsl_slide_02.jpg, etc.)
+2. Use TikTok Shop carousel format
+3. Each slide has professional text overlay with TikTok-style formatting
+4. Monitor engagement and adjust posting strategy as needed
+
+Created: 2025-11-13T11:33:41.948581
