@@ -142,27 +142,30 @@ class TikTokStyleTextOverlay:
         return safe_text.strip()
     
     def _wrap_text_for_tiktok(self, text: str) -> list:
-        """Split text into SHORT impactful lines (3-5 words per line for TikTok punch)"""
+        """Split text based on CHARACTER LENGTH for consistent visual line length"""
         
         words = text.split()
         lines = []
         current_line = ""
-        word_count = 0
-        max_words_per_line = 4  # 3-5 words per line for impact
+        max_chars_per_line = 22  # Consistent character length for visual balance
         
         for word in words:
+            # Test if adding this word would exceed the character limit
             test_line = current_line + " " + word if current_line else word
-            word_count += 1
             
-            # Break line after 4 words OR if line is getting too long (18 chars)
-            if word_count >= max_words_per_line or len(test_line) > 18:
+            if len(test_line) <= max_chars_per_line:
+                current_line = test_line
+            else:
+                # Line would be too long, save current line and start new one
                 if current_line:
                     lines.append(current_line)
-                current_line = word
-                word_count = 1
-            else:
-                current_line = test_line
+                    current_line = word
+                else:
+                    # Single word is longer than max, still add it
+                    lines.append(word)
+                    current_line = ""
         
+        # Add the last line if there's content
         if current_line:
             lines.append(current_line)
         
