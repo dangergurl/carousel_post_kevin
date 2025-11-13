@@ -1,0 +1,81 @@
+
+VSL Script for Anti-Aging Cream
+==================================================
+
+Product: Anti-Aging Cream
+Brand: YouthGlow
+Price: $44.99
+Category: skincare
+Style: TikTok-style (white text with dark outline)
+Product Model: RECRAFT
+
+SLIDES:
+
+Slide 1:
+Purpose: VSL Slide 1
+Script: I forgot my password 3 times in one day. I thought it was just a bad day, but then it kept happening...
+Image Prompt: Close-up of frustrated woman's face with her hands on her temples, looking stressed and confused. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format.
+---
+
+Slide 2:
+Purpose: VSL Slide 2
+Script: I started walking into rooms and forgetting why I was there. Mid-sentence, I'd lose my train of thought. My mind felt like it was in a fog all the time.
+Image Prompt: Woman with a puzzled expression standing in the middle of a room, one hand on her hip, the other scratching her head. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format.
+---
+
+Slide 3:
+Purpose: VSL Slide 3
+Script: I thought it was just a normal part of getting older. But then I found out the hidden truth about what doctors don't tell you. While I was struggling, the solution was right under my nose...
+Image Prompt: Silhouette of a woman's profile with gears and question marks floating in her brain area, against a dark, moody background. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format.
+---
+
+Slide 4:
+Purpose: VSL Slide 4
+Script: My best friend, a dermatologist, pulled me aside one day. She told me about a breakthrough formula that was helping her patients look and feel years younger. The key was a Nobel Prize-winning ingredient...
+Image Prompt: Two women, one in a lab coat, having an intimate conversation in a cozy living room setting. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format.
+---
+
+Slide 5:
+Purpose: VSL Slide 5
+Script: The secret was Epidermal Growth Factor (EGF), a protein that won the Nobel Prize for its ability to visibly reverse aging. It's been used in burn centers and hospitals for decades to regenerate skin.
+Image Prompt: Close-up of a microscope slide with glowing blue cells, overlaid with a Nobel Prize medal and a medical cross symbol. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format.
+---
+
+Slide 6:
+Purpose: VSL Slide 6
+Script: I started using the cream with EGF. Day 3: my skin felt softer. Day 7: fine lines started fading. Week 2: people asked if I'd gotten work done. My skin looked plumper, brighter, younger.
+Image Prompt: Side-by-side comparison of a woman's face, one side looking tired and wrinkled, the other side glowing and youthful. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format.
+---
+
+Slide 7:
+Purpose: VSL Slide 7
+Script: Even my skeptical husband noticed. "Your skin looks amazing," he said, "what's your secret?" My mom started using it too. She says it's the best her skin has looked in years.
+Image Prompt: Candid photo of a smiling older woman with radiant skin, holding hands with her husband who is looking at her admiringly. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format.
+---
+
+Slide 8:
+Purpose: VSL Slide 8
+Script: Now, I have the confidence to go makeup-free. My skin looks firmer, brighter, and more even. Fine lines and age spots have faded. I feel like I'm glowing from the inside out.
+Image Prompt: Smiling woman with glowing, bare skin in soft natural lighting, looking confident and radiant. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format.
+---
+
+Slide 9:
+Purpose: VSL Slide 9
+Script: The secret is YouthGlow Anti-Aging Cream with EGF. It's the only cream with pharmaceutical-grade EGF at the optimal concentration for visible results.
+Image Prompt: Sleek product shot of YouthGlow Anti-Aging Cream against a luxurious silk background, with a soft spotlight highlighting the product. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format.
+---
+
+Slide 10:
+Purpose: VSL Slide 10
+Script: YouthGlow sells out every few weeks. Don't wait until the signs of aging get worse. I wish I'd found this years ago. Click the link to try YouthGlow risk-free for 30 days.
+Image Prompt: Smiling, radiant woman in her 50s holding the YouthGlow cream, with a soft focus background and a subtle glow around her. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format.
+---
+
+
+UPLOAD INSTRUCTIONS:
+1. Upload slides in order (vsl_slide_01.jpg, vsl_slide_02.jpg, etc.)
+2. Use TikTok Shop carousel format
+3. Each slide has professional text overlay with TikTok-style formatting
+4. Monitor engagement and adjust posting strategy as needed
+
+Created: 2025-11-13T12:00:43.853002
