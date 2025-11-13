@@ -142,9 +142,9 @@ class TikTokStyleTextOverlay:
         return safe_text.strip()
     
     def _wrap_text_for_tiktok(self, text: str) -> list:
-        """Split text into lines (26 chars per line for readability)"""
+        """Split text into lines (22 chars per line to prevent cutoff)"""
         
-        max_chars_per_line = 26
+        max_chars_per_line = 22  # Reduced from 26 to prevent text cutoff
         words = text.split()
         lines = []
         current_line = ""
