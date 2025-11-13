@@ -1,0 +1,72 @@
+{
+  "product_name": "Collagen Glow Serum",
+  "product_price": 34.99,
+  "product_category": "skincare",
+  "brand": "RadiantSkin",
+  "slide_count": 10,
+  "created_at": "2025-11-13T11:37:08.747802",
+  "overlay_style": "TikTok-style (white text with dark outline)",
+  "product_model": "recraft",
+  "slides": [
+    {
+      "slide_number": 1,
+      "script": "I forgot my best friend's birthday - for the 3rd year in a row. My mind felt like a fog. I was only 35 but my memory was shot. What was happening to me?",
+      "image_prompt": "Closeup of a stressed woman with her head in her hands, looking frustrated and confused, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 1"
+    },
+    {
+      "slide_number": 2,
+      "script": "I started noticing other changes too. Losing my train of thought mid-sentence. Walking into rooms and forgetting why. It was like my brain was 20 years older than my body. I felt lost.",
+      "image_prompt": "Middle-aged woman with a puzzled expression, standing in a room looking disoriented, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 2"
+    },
+    {
+      "slide_number": 3,
+      "script": "Doctors brushed it off as \"normal aging.\" But I knew something wasn't right. Then one day, while struggling to remember a simple password, I stumbled on a shocking study...",
+      "image_prompt": "Silhouette of a woman's head with gears and question marks inside, signifying confusion and mental fog, ultra photorealistic, 16k, dramatic lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 3"
+    },
+    {
+      "slide_number": 4,
+      "script": "A Nobel Prize-winning scientist discovered the hidden cause of rapid brain aging: collagen deficiency. As we age, our natural collagen plummets, starving our brain cells. But there was hope...",
+      "image_prompt": "Microscopic view of healthy, glowing neurons with electrical impulses, representing optimal brain function, ultra photorealistic, 16k, vibrant colors, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 4"
+    },
+    {
+      "slide_number": 5,
+      "script": "The study showed a specific marine collagen could halt and even reverse this brain drain. It was like a switch flipped in my head. I had to try it for myself.",
+      "image_prompt": "Smiling woman looking up with a bright idea lightbulb above her head, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 5"
+    },
+    {
+      "slide_number": 6,
+      "script": "Day 3: I noticed I wasn't losing my keys as often. Day 7: I could focus for hours without brain fog. Week 2: My memory was sharper than it had been in years. The changes were incredible.",
+      "image_prompt": "Joyful woman with arms outstretched in front of a sunrise over the ocean, symbolizing renewal and transformation, ultra photorealistic, 16k, golden hour lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 6"
+    },
+    {
+      "slide_number": 7,
+      "script": "Even my husband was shocked. \"You seem 10 years younger,\" he said. My sister asked if I'd found the fountain of youth. I just smiled, knowing my secret.",
+      "image_prompt": "Closeup of a radiant, smiling woman in her 30s with glowing, youthful skin, ultra photorealistic, 16k, soft natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 7"
+    },
+    {
+      "slide_number": 8,
+      "script": "Now, I never forget birthdays or anniversaries. I can learn new skills in a flash. And that \"brain fog\"? It's a distant memory. My mind is razor-sharp, and I've got the collagen to thank.",
+      "image_prompt": "Woman confidently leading a meeting in a boardroom, colleagues looking impressed and engaged, ultra photorealistic, 16k, natural office lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 8"
+    },
+    {
+      "slide_number": 9,
+      "script": "Introducing RadiantSkin Collagen Glow Serum. The only marine collagen serum with the Nobel Prize-winning NeuroDensity formula. Clinically proven to restore youthful brain power in just 2 weeks.",
+      "image_prompt": "RadiantSkin Collagen Glow Serum bottle with a Nobel Prize medal and laboratory beakers in the background, ultra photorealistic, 16k, dramatic product lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 9"
+    },
+    {
+      "slide_number": 10,
+      "script": "This pharmaceutical-grade cognitive powerhouse is flying off the shelves. If you wait, you risk losing your mental edge for good. Get RadiantSkin now, and rediscover the razor-sharp mind you deserve.",
+      "image_prompt": "Closeup of a woman's hand reaching for the last RadiantSkin Collagen Glow Serum on an almost empty shelf, ultra photorealistic, 16k, dramatic lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 10"
+    }
+  ]
+}
