@@ -1,0 +1,72 @@
+{
+  "product_name": "Test Product B",
+  "product_price": 29.99,
+  "product_category": "general",
+  "brand": "TestBrand",
+  "slide_count": 10,
+  "created_at": "2025-11-13T12:11:57.742153",
+  "overlay_style": "TikTok-style (white text with dark outline)",
+  "product_model": "recraft",
+  "slides": [
+    {
+      "slide_number": 1,
+      "script": "My sister called me in tears. She'd been struggling with brain fog for months - forgetting why she walked into rooms, losing her train of thought mid-sentence. She felt like she was losing her mind at only 42 years old.",
+      "image_prompt": "Woman with head in hands looking stressed and confused, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 1"
+    },
+    {
+      "slide_number": 2,
+      "script": "It turns out, she's not alone. Did you know that over 60% of adults report experiencing brain fog regularly? And it only gets worse with age. I started noticing it myself - misplacing my keys, forgetting important dates. It was so frustrating.",
+      "image_prompt": "Montage of people looking confused and searching for misplaced items, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 2"
+    },
+    {
+      "slide_number": 3,
+      "script": "But here's the shocking part - while millions struggle with declining brain function, there's information that doctors aren't telling us. I discovered that the real cause of brain fog is a deficiency in a little-known nutrient called \"cerebrolide.",
+      "image_prompt": "Doctor shaking head \"no\" with \"cerebrolide\" information blurred out behind him, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 3"
+    },
+    {
+      "slide_number": 4,
+      "script": "That's when my sister's coworker pulled her aside and shared a secret. Her husband, a renowned neurologist, had been giving her a daily supplement to keep her mind sharp well into her 60s. The key ingredient? A highly concentrated dose of cerebrolide.",
+      "image_prompt": "Two women whispering with shocked but excited expressions, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 4"
+    },
+    {
+      "slide_number": 5,
+      "script": "I had to learn more. Turns out, cerebrolide has been used for centuries in traditional medicine to enhance memory and focus. Modern studies show it can improve cognitive function by up to 80% in just 30 days. No wonder it's approved for medical use in 42 countries.",
+      "image_prompt": "Ancient medical text showing herbal brain remedies next to modern research papers, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 5"
+    },
+    {
+      "slide_number": 6,
+      "script": "My sister started taking cerebrolide and the results were incredible. Day 3: Mental fatigue gone. Day 7: Razor-sharp focus returned. Week 2: Felt 10 years younger mentally. By week 4 she was remembering every little detail - even what she ate for lunch 2 Tuesdays ago!",
+      "image_prompt": "Woman looking amazed as she reads a book at lightning speed, surrounded by vivid memories, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 6"
+    },
+    {
+      "slide_number": 7,
+      "script": "Her husband was skeptical at first, but after seeing her transformation he started taking it too. Now they're both sharp as tacks. Even my mom, who's 70, says she hasn't felt this mentally clear since her 30s after trying it. The results speak for themselves.",
+      "image_prompt": "Collage of happy, mentally sharp older couple and senior woman, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 7"
+    },
+    {
+      "slide_number": 8,
+      "script": "Thanks to cerebrolide, I'm remembering every appointment, recalling facts with ease, and staying focused for hours. No more walking into rooms and forgetting why. I feel like I've regained control over my mind and unlocked my full potential. And it's all thanks to one daily supplement.",
+      "image_prompt": "Woman confidently leading a meeting, juggling multiple tasks with ease, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 8"
+    },
+    {
+      "slide_number": 9,
+      "script": "Introducing TestBrand's Test Product B - the world's first ultra-pure cerebrolide supplement. Developed by top neuroscientists and backed by 3 patents, it's the only formula that delivers the clinically proven dose to reverse brain fog and boost mental performance at any age.",
+      "image_prompt": "Sleek product bottle surrounded by lab equipment, brain scans, and research documents, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 9"
+    },
+    {
+      "slide_number": 10,
+      "script": "Test Product B has already transformed thousands of lives, but supplies are limited. Only 500 bottles are released each month, and they always sell out within hours. Don't wait until your brain fog gets even worse. Click the link and secure your supply of Test Product B before it's too late. Your clearest, sharpest mind awaits.",
+      "image_prompt": "Hands holding up Test Product B bottle in front of a countdown timer and \"Sold Out\" sign, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 10"
+    }
+  ]
+}
