@@ -11,15 +11,15 @@ class TikTokStyleTextOverlay:
     def __init__(self):
         self.logger = logging.getLogger(__name__)
         
-        # TikTok-style configuration (OPTIMIZED - smaller text, no cutoff)
-        self.font_size = 48  # Reduced from 55 to prevent cutoff
+        # TikTok-style configuration (BOLD IMPACT STYLE - like reference image)
+        self.font_size = 65  # Larger, bolder text
         self.font_path = "./ProximaNovaSemibold.otf"  # Fallback to system fonts if not found
-        self.outline_width = 4  # Slightly thinner outline
-        self.line_spacing = 12  # Tighter spacing
+        self.outline_width = 8  # Thick outline for maximum impact
+        self.line_spacing = 10  # Tight spacing for punch
         
-        # TikTok margins (more space on sides)
-        self.margin_percent = 0.12  # 12% margin on each side (76% width)
-        self.y_position_factor = 0.60  # 60% down from top
+        # TikTok margins (centered, impactful)
+        self.margin_percent = 0.15  # 15% margin on each side (70% width)
+        self.y_position_factor = 0.50  # Centered vertically (50% down from top)
         
     async def process_vsl_slides(self, image_paths: List[str], vsl_slides) -> List[str]:
         """Process VSL slides with TikTok-style text overlays"""
