@@ -1,0 +1,72 @@
+{
+  "product_name": "Vitamin C Glow Drops",
+  "product_price": 29.99,
+  "product_category": "skincare",
+  "brand": "PureGlow",
+  "slide_count": 10,
+  "created_at": "2025-11-13T11:47:16.833207",
+  "overlay_style": "TikTok-style (white text with dark outline)",
+  "product_model": "recraft",
+  "slides": [
+    {
+      "slide_number": 1,
+      "script": "I was mortified when my sister asked if I was sick at our family reunion. \"No, why?\" She hesitated. \"It's just... your skin. It looks so dull and tired.\" I wanted to hide under the table.",
+      "image_prompt": "Embarrassed woman with dull, tired skin hiding her face at a family gathering, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 1"
+    },
+    {
+      "slide_number": 2,
+      "script": "Turns out, I wasn't alone. Over 80% of women struggle with lackluster skin in their 30s and 40s. Late nights, stress, and one too many glasses of wine had left my complexion sallow and lifeless.",
+      "image_prompt": "Collage of stressed women in their 30s and 40s with dull skin, dark circles, holding wine glasses, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 2"
+    },
+    {
+      "slide_number": 3,
+      "script": "I tried everything\u2014expensive creams, facials, even considered laser treatments. But the real problem? My skin was suffocating from the inside out. Here's the hidden truth dermatologists don't tell you...",
+      "image_prompt": "Woman looking frustrated in a bathroom mirror, surrounded by skincare products, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 3"
+    },
+    {
+      "slide_number": 4,
+      "script": "A chance encounter with an old friend changed everything. Her skin was radiant\u2014plump, dewy, glowing. Her secret? A high-potency vitamin C serum, backed by Nobel Prize-winning research.",
+      "image_prompt": "Two women chatting in a caf\u00e9, one with radiant, glowing skin, the other looking intrigued, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 4"
+    },
+    {
+      "slide_number": 5,
+      "script": "Vitamin C is a powerhouse for skin health. It boosts collagen, fades dark spots, and neutralizes damaging free radicals. But here's the catch: most serums use unstable, low-grade formulas that lose potency before ever touching your skin.",
+      "image_prompt": "Scientific image showing vitamin C molecular structure, collagen fibers, and free radicals, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 5"
+    },
+    {
+      "slide_number": 6,
+      "script": "I was skeptical, but desperate. So I took the plunge. Day 3: my skin felt softer, smoother. Day 7: a noticeable glow, like a candle was lit from within. Week 2: friends started asking if I'd gotten treatments done. My skin was reborn.",
+      "image_prompt": "Closeup of a woman's radiant, glowing face, looking surprised and delighted, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 6"
+    },
+    {
+      "slide_number": 7,
+      "script": "Even my husband noticed. \"Your skin looks incredible,\" he said, studying my face. \"What's your secret?\" My sister, who'd sparked this journey, was floored. \"I need whatever magic you're using. You look 10 years younger.",
+      "image_prompt": "Woman with glowing skin being complimented by her surprised husband and sister, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 7"
+    },
+    {
+      "slide_number": 8,
+      "script": "Now, I wake up to plump, dewy skin every single day. No more dullness, no more tired eyes. Just a radiant, youthful complexion that glows from the inside out. People constantly ask if I've discovered the fountain of youth.",
+      "image_prompt": "Woman with radiant, youthful skin looking happy and confident in natural light, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 8"
+    },
+    {
+      "slide_number": 9,
+      "script": "Introducing PureGlow Vitamin C Glow Drops\u2014the high-potency, pharmaceutical-grade serum that reawakened my skin. With 20% pure L-ascorbic acid, it's clinically proven to visibly brighten, firm, and revitalize your complexion in just 10 days.",
+      "image_prompt": "PureGlow Vitamin C Glow Drops bottle with dropper, surrounded by glowing citrus slices and vibrant skincare ingredients, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 9"
+    },
+    {
+      "slide_number": 10,
+      "script": "This is your glow-up call. Your chance to reclaim the radiant, youthful skin you thought was lost forever. PureGlow is flying off the shelves and sells out every few weeks. Don't wait until your dullness turns to damage. Click the link and start your transformation now.",
+      "image_prompt": "Closeup of a woman's hands holding a PureGlow bottle, with a vibrant, colorful background representing transformation and radiance, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 10"
+    }
+  ]
+}

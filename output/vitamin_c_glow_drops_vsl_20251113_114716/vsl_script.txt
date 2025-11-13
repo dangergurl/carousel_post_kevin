@@ -1,0 +1,81 @@
+
+VSL Script for Vitamin C Glow Drops
+==================================================
+
+Product: Vitamin C Glow Drops
+Brand: PureGlow
+Price: $29.99
+Category: skincare
+Style: TikTok-style (white text with dark outline)
+Product Model: RECRAFT
+
+SLIDES:
+
+Slide 1:
+Purpose: VSL Slide 1
+Script: I was mortified when my sister asked if I was sick at our family reunion. "No, why?" She hesitated. "It's just... your skin. It looks so dull and tired." I wanted to hide under the table.
+Image Prompt: Embarrassed woman with dull, tired skin hiding her face at a family gathering, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 2:
+Purpose: VSL Slide 2
+Script: Turns out, I wasn't alone. Over 80% of women struggle with lackluster skin in their 30s and 40s. Late nights, stress, and one too many glasses of wine had left my complexion sallow and lifeless.
+Image Prompt: Collage of stressed women in their 30s and 40s with dull skin, dark circles, holding wine glasses, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 3:
+Purpose: VSL Slide 3
+Script: I tried everything—expensive creams, facials, even considered laser treatments. But the real problem? My skin was suffocating from the inside out. Here's the hidden truth dermatologists don't tell you...
+Image Prompt: Woman looking frustrated in a bathroom mirror, surrounded by skincare products, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 4:
+Purpose: VSL Slide 4
+Script: A chance encounter with an old friend changed everything. Her skin was radiant—plump, dewy, glowing. Her secret? A high-potency vitamin C serum, backed by Nobel Prize-winning research.
+Image Prompt: Two women chatting in a café, one with radiant, glowing skin, the other looking intrigued, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 5:
+Purpose: VSL Slide 5
+Script: Vitamin C is a powerhouse for skin health. It boosts collagen, fades dark spots, and neutralizes damaging free radicals. But here's the catch: most serums use unstable, low-grade formulas that lose potency before ever touching your skin.
+Image Prompt: Scientific image showing vitamin C molecular structure, collagen fibers, and free radicals, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 6:
+Purpose: VSL Slide 6
+Script: I was skeptical, but desperate. So I took the plunge. Day 3: my skin felt softer, smoother. Day 7: a noticeable glow, like a candle was lit from within. Week 2: friends started asking if I'd gotten treatments done. My skin was reborn.
+Image Prompt: Closeup of a woman's radiant, glowing face, looking surprised and delighted, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 7:
+Purpose: VSL Slide 7
+Script: Even my husband noticed. "Your skin looks incredible," he said, studying my face. "What's your secret?" My sister, who'd sparked this journey, was floored. "I need whatever magic you're using. You look 10 years younger.
+Image Prompt: Woman with glowing skin being complimented by her surprised husband and sister, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 8:
+Purpose: VSL Slide 8
+Script: Now, I wake up to plump, dewy skin every single day. No more dullness, no more tired eyes. Just a radiant, youthful complexion that glows from the inside out. People constantly ask if I've discovered the fountain of youth.
+Image Prompt: Woman with radiant, youthful skin looking happy and confident in natural light, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 9:
+Purpose: VSL Slide 9
+Script: Introducing PureGlow Vitamin C Glow Drops—the high-potency, pharmaceutical-grade serum that reawakened my skin. With 20% pure L-ascorbic acid, it's clinically proven to visibly brighten, firm, and revitalize your complexion in just 10 days.
+Image Prompt: PureGlow Vitamin C Glow Drops bottle with dropper, surrounded by glowing citrus slices and vibrant skincare ingredients, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 10:
+Purpose: VSL Slide 10
+Script: This is your glow-up call. Your chance to reclaim the radiant, youthful skin you thought was lost forever. PureGlow is flying off the shelves and sells out every few weeks. Don't wait until your dullness turns to damage. Click the link and start your transformation now.
+Image Prompt: Closeup of a woman's hands holding a PureGlow bottle, with a vibrant, colorful background representing transformation and radiance, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+
+UPLOAD INSTRUCTIONS:
+1. Upload slides in order (vsl_slide_01.jpg, vsl_slide_02.jpg, etc.)
+2. Use TikTok Shop carousel format
+3. Each slide has professional text overlay with TikTok-style formatting
+4. Monitor engagement and adjust posting strategy as needed
+
+Created: 2025-11-13T11:47:16.833207
