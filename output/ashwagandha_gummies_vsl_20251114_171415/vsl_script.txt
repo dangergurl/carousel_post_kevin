@@ -1,0 +1,81 @@
+
+VSL Script for Ashwagandha Gummies
+==================================================
+
+Product: Ashwagandha Gummies
+Brand: Goli
+Price: $19.99
+Category: supplements
+Style: TikTok-style (white text with dark outline)
+Product Model: FLUX_IMG2IMG
+
+SLIDES:
+
+Slide 1:
+Purpose: VSL Slide 1
+Script: I couldn't focus at work for more than 10 minutes without getting distracted. My mind was constantly racing with anxious thoughts. I was irritable with my family and couldn't fall asleep at night.
+Image Prompt: Woman with head in hands looking stressed and overwhelmed at messy desk, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 2:
+Purpose: VSL Slide 2
+Script: Stress and anxiety were taking over my life. I was forgetting important tasks, snapping at my kids, and felt like I was in a constant fog. I tried meditation apps and yoga, but nothing seemed to help.
+Image Prompt: Frazzled mom yelling at kids in kitchen with forgotten grocery bags on counter, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 3:
+Purpose: VSL Slide 3
+Script: What doctors don't tell you is that chronic stress can lead to serious health problems. While I was struggling to get through each day, I didn't realize the long-term damage it was causing to my mind and body.
+Image Prompt: Worried woman in doctor's office looking at concerning medical chart, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 4:
+Purpose: VSL Slide 4
+Script: My sister, a holistic nutritionist, recommended I try an ancient herb called Ashwagandha. She explained that it's been used for centuries in Ayurvedic medicine to combat stress and promote relaxation.
+Image Prompt: Two sisters having heartfelt conversation at cozy cafe, Ashwagandha plant and old Ayurvedic book on table, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 5:
+Purpose: VSL Slide 5
+Script: I did some research and discovered that Ashwagandha has been clinically proven to reduce cortisol, the stress hormone. It's even been shown to improve sleep quality and cognitive function.
+Image Prompt: Scientific journal articles and research papers about Ashwagandha benefits scattered on desk, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 6:
+Purpose: VSL Slide 6
+Script: I started taking Ashwagandha daily, and the results were life-changing. Day 3: I noticed I was less reactive to stress. Day 7: I was sleeping more soundly. Week 2: My focus and productivity skyrocketed.
+Image Prompt: Smiling woman waking up refreshed in sunny bedroom, journal on nightstand showing Ashwagandha progress, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 7:
+Purpose: VSL Slide 7
+Script: My husband was skeptical at first, but after seeing my transformation, he started taking Ashwagandha too. Now, we're both more present with our kids and each other. My mom even noticed how much calmer I seemed.
+Image Prompt: Happy family laughing and playing board game together in living room, Ashwagandha bottle subtly on shelf in background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 8:
+Purpose: VSL Slide 8
+Script: Thanks to Ashwagandha, I now have the mental clarity and emotional resilience to tackle anything that comes my way. I'm more productive at work, a better partner and parent, and finally feel like myself again.
+Image Prompt: Confident woman crushing presentation in boardroom, colleagues looking impressed, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 9:
+Purpose: VSL Slide 9
+Script: The Ashwagandha supplement that changed my life? Goli Ashwagandha Gummies. These delicious gummies are made with the highest quality organic Ashwagandha root extract and are clinically proven to reduce stress.
+Image Prompt: Goli Ashwagandha Gummies bottle and gummies scattered on marble countertop, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 10:
+Purpose: VSL Slide 10
+Script: Don't let stress control your life like it did mine. Try Goli Ashwagandha Gummies today and experience the life-changing benefits for yourself. Trust me, your future self will thank you.
+Image Prompt: Smiling woman holding Goli Ashwagandha Gummies bottle, giving thumbs up, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+
+UPLOAD INSTRUCTIONS:
+1. Upload slides in order (vsl_slide_01.jpg, vsl_slide_02.jpg, etc.)
+2. Use TikTok Shop carousel format
+3. Each slide has professional text overlay with TikTok-style formatting
+4. Monitor engagement and adjust posting strategy as needed
+
+Created: 2025-11-14T17:14:15.324065

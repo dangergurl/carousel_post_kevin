@@ -1,0 +1,72 @@
+{
+  "product_name": "Ashwagandha Gummies",
+  "product_price": 19.99,
+  "product_category": "supplements",
+  "brand": "Goli",
+  "slide_count": 10,
+  "created_at": "2025-11-14T17:14:15.324065",
+  "overlay_style": "TikTok-style (white text with dark outline)",
+  "product_model": "flux_img2img",
+  "slides": [
+    {
+      "slide_number": 1,
+      "script": "I couldn't focus at work for more than 10 minutes without getting distracted. My mind was constantly racing with anxious thoughts. I was irritable with my family and couldn't fall asleep at night.",
+      "image_prompt": "Woman with head in hands looking stressed and overwhelmed at messy desk, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 1"
+    },
+    {
+      "slide_number": 2,
+      "script": "Stress and anxiety were taking over my life. I was forgetting important tasks, snapping at my kids, and felt like I was in a constant fog. I tried meditation apps and yoga, but nothing seemed to help.",
+      "image_prompt": "Frazzled mom yelling at kids in kitchen with forgotten grocery bags on counter, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 2"
+    },
+    {
+      "slide_number": 3,
+      "script": "What doctors don't tell you is that chronic stress can lead to serious health problems. While I was struggling to get through each day, I didn't realize the long-term damage it was causing to my mind and body.",
+      "image_prompt": "Worried woman in doctor's office looking at concerning medical chart, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 3"
+    },
+    {
+      "slide_number": 4,
+      "script": "My sister, a holistic nutritionist, recommended I try an ancient herb called Ashwagandha. She explained that it's been used for centuries in Ayurvedic medicine to combat stress and promote relaxation.",
+      "image_prompt": "Two sisters having heartfelt conversation at cozy cafe, Ashwagandha plant and old Ayurvedic book on table, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 4"
+    },
+    {
+      "slide_number": 5,
+      "script": "I did some research and discovered that Ashwagandha has been clinically proven to reduce cortisol, the stress hormone. It's even been shown to improve sleep quality and cognitive function.",
+      "image_prompt": "Scientific journal articles and research papers about Ashwagandha benefits scattered on desk, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 5"
+    },
+    {
+      "slide_number": 6,
+      "script": "I started taking Ashwagandha daily, and the results were life-changing. Day 3: I noticed I was less reactive to stress. Day 7: I was sleeping more soundly. Week 2: My focus and productivity skyrocketed.",
+      "image_prompt": "Smiling woman waking up refreshed in sunny bedroom, journal on nightstand showing Ashwagandha progress, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 6"
+    },
+    {
+      "slide_number": 7,
+      "script": "My husband was skeptical at first, but after seeing my transformation, he started taking Ashwagandha too. Now, we're both more present with our kids and each other. My mom even noticed how much calmer I seemed.",
+      "image_prompt": "Happy family laughing and playing board game together in living room, Ashwagandha bottle subtly on shelf in background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 7"
+    },
+    {
+      "slide_number": 8,
+      "script": "Thanks to Ashwagandha, I now have the mental clarity and emotional resilience to tackle anything that comes my way. I'm more productive at work, a better partner and parent, and finally feel like myself again.",
+      "image_prompt": "Confident woman crushing presentation in boardroom, colleagues looking impressed, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 8"
+    },
+    {
+      "slide_number": 9,
+      "script": "The Ashwagandha supplement that changed my life? Goli Ashwagandha Gummies. These delicious gummies are made with the highest quality organic Ashwagandha root extract and are clinically proven to reduce stress.",
+      "image_prompt": "Goli Ashwagandha Gummies bottle and gummies scattered on marble countertop, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 9"
+    },
+    {
+      "slide_number": 10,
+      "script": "Don't let stress control your life like it did mine. Try Goli Ashwagandha Gummies today and experience the life-changing benefits for yourself. Trust me, your future self will thank you.",
+      "image_prompt": "Smiling woman holding Goli Ashwagandha Gummies bottle, giving thumbs up, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 10"
+    }
+  ]
+}
