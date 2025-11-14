@@ -181,29 +181,61 @@ class ImageGenerator:
         self.logger.info(f"🎨 kie.ai 4o Image prompt for slide {slide.slide_number}: {enhanced_prompt[:100]}...")
         
         try:
-            # Resize and compress product image to reduce size for API
+            # Step 1: Upload product image to kie.ai file storage
             import base64
             from PIL import Image as PILImage
             import io
+            import os
             
-            # Load and resize product image to reduce file size
+            # Load and prepare product image
             img = PILImage.open(product_image_path)
             
-            # Resize to max 1024px on longest side to keep under API limits
-            max_size = 1024
-            if max(img.size) > max_size:
-                ratio = max_size / max(img.size)
-                new_size = tuple(int(dim * ratio) for dim in img.size)
-                img = img.resize(new_size, PILImage.Resampling.LANCZOS)
-            
-            # Compress to JPEG with quality=85 to reduce size
+            # Convert to JPEG and compress
             buffer = io.BytesIO()
-            img.convert('RGB').save(buffer, format='JPEG', quality=85, optimize=True)
+            img.convert('RGB').save(buffer, format='JPEG', quality=90, optimize=True)
             product_data = base64.b64encode(buffer.getvalue()).decode('utf-8')
             
-            # Create data URL
-            product_url = f"data:image/jpeg;base64,{product_data}"
-            self.logger.info(f"📏 Product image size after compression: {len(product_data)/1024:.1f}KB")
+            self.logger.info(f"📤 Uploading product image to kie.ai file storage...")
+            
+            # Prepare upload headers
+            upload_headers = {
+                "Authorization": f"Bearer {Config.KIE_AI_API_KEY}",
+                "Content-Type": "application/json"
+            }
+            
+            # Upload payload
+            upload_payload = {
+                "base64": product_data,
+                "uploadPath": "product-images",
+                "fileName": f"product_{slide.slide_number}_{os.path.basename(product_image_path)}"
+            }
+            
+            # Upload file to kie.ai
+            async with aiohttp.ClientSession() as session:
+                async with session.post(
+                    "https://kieai.redpandaai.co/api/file-base64-upload",
+                    headers=upload_headers,
+                    json=upload_payload,
+                    timeout=aiohttp.ClientTimeout(total=30)
+                ) as upload_response:
+                    
+                    if upload_response.status != 200:
+                        error_text = await upload_response.text()
+                        raise Exception(f"File upload failed (status {upload_response.status}): {error_text}")
+                    
+                    upload_result = await upload_response.json()
+                    
+                    # Extract the file URL from response
+                    if 'data' in upload_result and 'url' in upload_result['data']:
+                        product_url = upload_result['data']['url']
+                    elif 'url' in upload_result:
+                        product_url = upload_result['url']
+                    elif 'fileUrl' in upload_result:
+                        product_url = upload_result['fileUrl']
+                    else:
+                        raise Exception(f"No URL in upload response: {upload_result}")
+                    
+                    self.logger.info(f"✅ Product image uploaded: {product_url}")
             
             self.logger.info(f"📤 Sending product reference to kie.ai 4o Image API...")
             
