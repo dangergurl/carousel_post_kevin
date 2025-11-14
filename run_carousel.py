@@ -22,8 +22,8 @@ Examples:
   # With product reference image (uses Recraft V3 for slides 8-10)
   python run_carousel.py --product "Ashwagandha Gummies" --brand "Goli" --price 19.99 --product-image ./product.jpg
 
-  # Use FLUX img2img instead of Recraft
-  python run_carousel.py --product "Vitamin C Serum" --price 29.99 --product-image ./serum.jpg --product-model flux_img2img
+  # Use kie.ai Flux Kontext for UGC-style (default)
+  python run_carousel.py --product "Vitamin C Serum" --price 29.99 --product-image ./serum.jpg --product-model kie_flux_kontext
 
   # Skip text overlays (get raw AI images only)
   python run_carousel.py --product "Collagen Powder" --price 39.99 --skip-text-overlay
