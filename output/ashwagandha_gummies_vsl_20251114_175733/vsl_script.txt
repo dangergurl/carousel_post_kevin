@@ -1,0 +1,81 @@
+
+VSL Script for Ashwagandha Gummies
+==================================================
+
+Product: Ashwagandha Gummies
+Brand: Goli
+Price: $19.99
+Category: general
+Style: TikTok-style (white text with dark outline)
+Product Model: KIE_4O_IMAGE
+
+SLIDES:
+
+Slide 1:
+Purpose: VSL Slide 1
+Script: I forgot my best friend's birthday...for the 3rd year in a row. The stress was making my mind so foggy, I could barely remember what I had for breakfast.
+Image Prompt: Ultra photorealistic closeup of a stressed woman holding her head, looking disappointed, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 2:
+Purpose: VSL Slide 2
+Script: I was snapping at my kids, blanking on words mid-sentence, and walking into rooms having no idea why I was there. Stress brain fog was taking over my life.
+Image Prompt: Ultra photorealistic shot of a woman looking confused and overwhelmed in a messy kitchen, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 3:
+Purpose: VSL Slide 3
+Script: What doctors don't tell you is that chronic stress can literally shrink your brain. While I was struggling, an ancient adaptogen was already being used to boost mental clarity...
+Image Prompt: Ultra photorealistic image of ashwagandha root and powder in a mortar and pestle on a rustic wooden table, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 4:
+Purpose: VSL Slide 4
+Script: My sister, a naturopath, recommended I try ashwagandha. She explained it's been used for over 3000 years in Ayurvedic medicine to reduce stress and sharpen focus.
+Image Prompt: Ultra photorealistic image of a woman having a serious conversation with her sister in a cozy living room, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 5:
+Purpose: VSL Slide 5
+Script: I discovered ashwagandha is clinically proven to lower cortisol, the stress hormone. It's even been shown to regenerate brain cells and improve memory in medical studies.
+Image Prompt: Ultra photorealistic 3D render of neurons connecting in the brain, with ashwagandha leaves and scientific charts in the background, 16k, HDR, high resolution, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 6:
+Purpose: VSL Slide 6
+Script: Day 3: I started feeling calmer. Day 7: Words came to me easier. Week 2: My husband said "You haven't forgotten anything in days!" After 1 month, it felt like a mental fog had lifted.
+Image Prompt: Ultra photorealistic shot of a woman looking refreshed and happy, working productively at her desk, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 7:
+Purpose: VSL Slide 7
+Script: Even my skeptical brother noticed the difference. "Your memory is better than mine now," he laughed. My mom started taking ashwagandha too and says she hasn't slept this well in years.
+Image Prompt: Ultra photorealistic candid shot of a smiling family - woman, brother, mom - looking relaxed in a sunlit park, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 8:
+Purpose: VSL Slide 8
+Script: Now I have the mental clarity to be present with my family, the alertness to excel at work, and the peace of mind that I'm caring for my brain health naturally.
+Image Prompt: Ultra photorealistic image of a serene woman meditating in a tranquil garden, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 9:
+Purpose: VSL Slide 9
+Script: The ashwagandha that changed everything? Goli Ashwagandha Gummies. Made with the highest concentration full-spectrum extract, in a delicious mixed berry flavor.
+Image Prompt: Ultra photorealistic product shot of Goli Ashwagandha Gummies bottle and gummies scattered on a white marble surface, 16k, studio lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 10:
+Purpose: VSL Slide 10
+Script: Goli is the only ashwagandha gummy with this potency and bioavailability. They sell out every few weeks - don't wait until stress steals more memories. Choose clarity with Goli.
+Image Prompt: Ultra photorealistic shot of a woman's hand reaching for a Goli gummy from the bottle, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+
+UPLOAD INSTRUCTIONS:
+1. Upload slides in order (vsl_slide_01.jpg, vsl_slide_02.jpg, etc.)
+2. Use TikTok Shop carousel format
+3. Each slide has professional text overlay with TikTok-style formatting
+4. Monitor engagement and adjust posting strategy as needed
+
+Created: 2025-11-14T17:57:33.609144

@@ -1,0 +1,72 @@
+{
+  "product_name": "Ashwagandha Gummies",
+  "product_price": 19.99,
+  "product_category": "general",
+  "brand": "Goli",
+  "slide_count": 10,
+  "created_at": "2025-11-14T17:57:33.609144",
+  "overlay_style": "TikTok-style (white text with dark outline)",
+  "product_model": "kie_4o_image",
+  "slides": [
+    {
+      "slide_number": 1,
+      "script": "I forgot my best friend's birthday...for the 3rd year in a row. The stress was making my mind so foggy, I could barely remember what I had for breakfast.",
+      "image_prompt": "Ultra photorealistic closeup of a stressed woman holding her head, looking disappointed, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 1"
+    },
+    {
+      "slide_number": 2,
+      "script": "I was snapping at my kids, blanking on words mid-sentence, and walking into rooms having no idea why I was there. Stress brain fog was taking over my life.",
+      "image_prompt": "Ultra photorealistic shot of a woman looking confused and overwhelmed in a messy kitchen, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 2"
+    },
+    {
+      "slide_number": 3,
+      "script": "What doctors don't tell you is that chronic stress can literally shrink your brain. While I was struggling, an ancient adaptogen was already being used to boost mental clarity...",
+      "image_prompt": "Ultra photorealistic image of ashwagandha root and powder in a mortar and pestle on a rustic wooden table, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 3"
+    },
+    {
+      "slide_number": 4,
+      "script": "My sister, a naturopath, recommended I try ashwagandha. She explained it's been used for over 3000 years in Ayurvedic medicine to reduce stress and sharpen focus.",
+      "image_prompt": "Ultra photorealistic image of a woman having a serious conversation with her sister in a cozy living room, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 4"
+    },
+    {
+      "slide_number": 5,
+      "script": "I discovered ashwagandha is clinically proven to lower cortisol, the stress hormone. It's even been shown to regenerate brain cells and improve memory in medical studies.",
+      "image_prompt": "Ultra photorealistic 3D render of neurons connecting in the brain, with ashwagandha leaves and scientific charts in the background, 16k, HDR, high resolution, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 5"
+    },
+    {
+      "slide_number": 6,
+      "script": "Day 3: I started feeling calmer. Day 7: Words came to me easier. Week 2: My husband said \"You haven't forgotten anything in days!\" After 1 month, it felt like a mental fog had lifted.",
+      "image_prompt": "Ultra photorealistic shot of a woman looking refreshed and happy, working productively at her desk, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 6"
+    },
+    {
+      "slide_number": 7,
+      "script": "Even my skeptical brother noticed the difference. \"Your memory is better than mine now,\" he laughed. My mom started taking ashwagandha too and says she hasn't slept this well in years.",
+      "image_prompt": "Ultra photorealistic candid shot of a smiling family - woman, brother, mom - looking relaxed in a sunlit park, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 7"
+    },
+    {
+      "slide_number": 8,
+      "script": "Now I have the mental clarity to be present with my family, the alertness to excel at work, and the peace of mind that I'm caring for my brain health naturally.",
+      "image_prompt": "Ultra photorealistic image of a serene woman meditating in a tranquil garden, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 8"
+    },
+    {
+      "slide_number": 9,
+      "script": "The ashwagandha that changed everything? Goli Ashwagandha Gummies. Made with the highest concentration full-spectrum extract, in a delicious mixed berry flavor.",
+      "image_prompt": "Ultra photorealistic product shot of Goli Ashwagandha Gummies bottle and gummies scattered on a white marble surface, 16k, studio lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 9"
+    },
+    {
+      "slide_number": 10,
+      "script": "Goli is the only ashwagandha gummy with this potency and bioavailability. They sell out every few weeks - don't wait until stress steals more memories. Choose clarity with Goli.",
+      "image_prompt": "Ultra photorealistic shot of a woman's hand reaching for a Goli gummy from the bottle, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 10"
+    }
+  ]
+}
