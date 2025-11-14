@@ -47,8 +47,8 @@ Examples:
                        help='Product image formatting: cover (crop to fill), contain (fit with padding), stretch')
     
     # Model selection
-    parser.add_argument('--product-model', choices=['kie_4o_image', 'recraft', 'flux_img2img', 'flux_redux'], default='kie_4o_image',
-                       help='Model for product photos (slides 8-10): kie_4o_image (UGC-style GPT-4o, default), recraft, flux_img2img, flux_redux')
+    parser.add_argument('--product-model', choices=['fal_nano_banana', 'kie_4o_image', 'recraft', 'flux_img2img', 'flux_redux'], default='fal_nano_banana',
+                       help='Model for product photos (slides 8-10): fal_nano_banana (Gemini 2.5 Flash, UGC-style, default), kie_4o_image, recraft, flux_img2img, flux_redux')
     parser.add_argument('--use-gemini', action='store_true', 
                        help='Use Gemini 2.5 Flash for scene slides (1-7) instead of FLUX')
     
