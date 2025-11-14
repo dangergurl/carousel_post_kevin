@@ -74,7 +74,7 @@ Examples:
     
     # Print configuration
     print("\n" + "="*60)
-    print("🚀 TikTok Carousel Automation - Recraft V3 Edition")
+    print("🚀 TikTok Carousel Automation - kie.ai Flux Kontext Edition")
     print("="*60)
     print(f"Product: {args.product}")
     print(f"Brand: {args.brand or 'N/A'}")
