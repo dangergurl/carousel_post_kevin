@@ -169,31 +169,31 @@ class ImageGenerator:
     
 
     async def _generate_kie_4o_image(self, slide: Any, product_image_path: str) -> str:
-        """🌟 Generate UGC-style image using kie.ai Flux Kontext with product reference"""
+        """🌟 Generate UGC-style image using kie.ai 4o Image API with product reference"""
         
         if not Config.KIE_AI_API_KEY:
             raise ValueError("KIE_AI_API_KEY not configured in .env file")
         
         # Enhance prompt for UGC-style natural scenes
         enhanced_prompt = self._enhance_prompt_for_ugc(slide.dalle_prompt)
-        enhanced_prompt = f"{enhanced_prompt}. Natural, authentic UGC-style photo featuring the product from the reference image."
+        enhanced_prompt = f"{enhanced_prompt}. Natural, authentic UGC-style photo featuring the product from the reference image, 9:16 vertical format."
         
-        self.logger.info(f"🎨 kie.ai Flux Kontext prompt for slide {slide.slide_number}: {enhanced_prompt[:100]}...")
+        self.logger.info(f"🎨 kie.ai 4o Image prompt for slide {slide.slide_number}: {enhanced_prompt[:100]}...")
         
         try:
-            # First, upload the product image and get a URL
-            # We'll use a simple image hosting approach via base64 data URL
+            # Upload product image to a temporary storage to get a public URL
+            # For now, we'll use base64 data URL since that's simpler
             import base64
             from PIL import Image as PILImage
             
-            # Read and encode product image as base64 for data URL
+            # Read product image
             with open(product_image_path, 'rb') as f:
                 product_data = base64.b64encode(f.read()).decode('utf-8')
             
-            # Create a data URL for the product image
+            # Create data URL
             product_url = f"data:image/jpeg;base64,{product_data}"
             
-            self.logger.info(f"📤 Sending product reference to kie.ai...")
+            self.logger.info(f"📤 Sending product reference to kie.ai 4o Image API...")
             
             # Prepare request headers
             headers = {
@@ -201,20 +201,19 @@ class ImageGenerator:
                 "Content-Type": "application/json"
             }
             
-            # Payload for kie.ai Flux Kontext API
+            # Payload for kie.ai 4o Image API
             payload = {
                 "prompt": enhanced_prompt,
-                "inputImage": product_url,  # Input image for editing/integration
-                "aspectRatio": "9:16",  # Vertical format
-                "model": "flux-kontext-pro",  # Pro model for quality
-                "outputFormat": "jpeg"
+                "filesUrl": [product_url],  # Reference image(s) - up to 5 supported
+                "numVariations": 1,
+                "size": "2:3"  # Closest to 9:16 vertical
             }
             
             # Submit task to kie.ai
             async with aiohttp.ClientSession() as session:
-                self.logger.info(f"🚀 Submitting task to kie.ai Flux Kontext API...")
+                self.logger.info(f"🚀 Submitting task to kie.ai 4o Image API...")
                 async with session.post(
-                    "https://api.kie.ai/v1/flux-kontext/generate-or-edit-image",
+                    "https://api.kie.ai/api/v1/gpt4o-image/generate",
                     headers=headers,
                     json=payload,
                     timeout=aiohttp.ClientTimeout(total=30)
@@ -239,13 +238,13 @@ class ImageGenerator:
                 
                 self.logger.info(f"📋 Task ID: {task_id}, polling for result...")
                 
-                # Poll for completion (max 60 seconds)
-                max_attempts = 30
+                # Poll for completion (max 90 seconds)
+                max_attempts = 45
                 for attempt in range(max_attempts):
                     await asyncio.sleep(2)  # Wait 2 seconds between polls
                     
                     async with session.get(
-                        f"https://api.kie.ai/v1/flux-kontext/get-image-details/{task_id}",
+                        f"https://api.kie.ai/api/v1/gpt4o-image/get-image-details/{task_id}",
                         headers=headers,
                         timeout=aiohttp.ClientTimeout(total=10)
                     ) as status_response:
@@ -258,10 +257,12 @@ class ImageGenerator:
                         # Check if task is complete
                         if 'data' in status_data:
                             data = status_data['data']
-                            if data.get('status') == 'completed' and 'imageUrl' in data:
-                                image_url = data['imageUrl']
-                                self.logger.info(f"✅ Image ready: {image_url}")
-                                break
+                            if data.get('status') == 'completed':
+                                # Extract image URL from images array
+                                if 'images' in data and len(data['images']) > 0:
+                                    image_url = data['images'][0].get('url')
+                                    self.logger.info(f"✅ Image ready: {image_url}")
+                                    break
                         elif 'imageUrl' in status_data:
                             image_url = status_data['imageUrl']
                             self.logger.info(f"✅ Image ready: {image_url}")
@@ -270,7 +271,7 @@ class ImageGenerator:
                     raise Exception(f"Task {task_id} did not complete within timeout")
             
             # Download and save image
-            filename = f"slide_{slide.slide_number}_kie_flux_kontext.jpg"
+            filename = f"slide_{slide.slide_number}_kie_4o_image.jpg"
             local_path = await download_image(image_url, Config.TEMP_DIRECTORY, filename)
             
             # Resize to exact 1080x1920 dimensions
@@ -280,11 +281,11 @@ class ImageGenerator:
                 img = img.resize((1080, 1920), PILImage.Resampling.LANCZOS)
                 img.save(local_path, 'JPEG', quality=95)
             
-            self.logger.info(f"✅ kie.ai Flux Kontext generated: {local_path}")
+            self.logger.info(f"✅ kie.ai 4o Image generated: {local_path}")
             return local_path
             
         except Exception as e:
-            self.logger.error(f"❌ kie.ai Flux Kontext generation failed: {e}")
+            self.logger.error(f"❌ kie.ai 4o Image generation failed: {e}")
             raise
 
     async def _generate_flux_redux(self, slide: Any, product_image_path: str) -> str:

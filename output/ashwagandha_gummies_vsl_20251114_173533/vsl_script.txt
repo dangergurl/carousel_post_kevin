@@ -1,0 +1,81 @@
+
+VSL Script for Ashwagandha Gummies
+==================================================
+
+Product: Ashwagandha Gummies
+Brand: Goli
+Price: $19.99
+Category: supplements
+Style: TikTok-style (white text with dark outline)
+Product Model: KIE_FLUX_KONTEXT
+
+SLIDES:
+
+Slide 1:
+Purpose: VSL Slide 1
+Script: I was so stressed, I forgot my anniversary. My wife was crushed. I felt like the worst husband ever.
+Image Prompt: Frustrated man with head in hands sitting on edge of bed, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 2:
+Purpose: VSL Slide 2
+Script: Work stress was killing me. Constant deadlines, demanding clients. I was snapping at my kids over nothing.
+Image Prompt: Stressed businessman at desk buried in paperwork looking overwhelmed, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 3:
+Purpose: VSL Slide 3
+Script: What doctors don't tell you - chronic stress is a silent killer. While I was struggling, an ancient solution existed all along.
+Image Prompt: Serene monk meditating in temple with incense burning, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 4:
+Purpose: VSL Slide 4
+Script: My yoga teacher shared the secret: Ashwagandha. Trusted for 3000+ years in Ayurvedic medicine to relieve stress and anxiety.
+Image Prompt: Ashwagandha plant with roots, leaves and berries, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 5:
+Purpose: VSL Slide 5
+Script: Over 200 modern studies back it up. Elite hospitals use pharmaceutical-grade Ashwagandha to help patients stay calm and focused.
+Image Prompt: Scientists in lab coats analyzing Ashwagandha extract in test tubes, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 6:
+Purpose: VSL Slide 6
+Script: Day 3: I started sleeping better. Day 7: My mind felt clearer, more positive. Week 2: Co-workers asked what changed. I was like a new man.
+Image Prompt: Smiling man looking refreshed and energized in office giving thumbs up, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 7:
+Purpose: VSL Slide 7
+Script: Even my skeptical wife noticed. "You're so much calmer and more patient with the kids. It's like you're finally yourself again.
+Image Prompt: Happy couple hugging and smiling in kitchen with kids playing in background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 8:
+Purpose: VSL Slide 8
+Script: Now I have the focus to crush it at work, the patience to be a better dad, and the presence to cherish every moment with my wife.
+Image Prompt: Joyful family playing board game together in living room laughing, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 9:
+Purpose: VSL Slide 9
+Script: The secret? Goli Ashwagandha Gummies. Organic, plant-based, and clinically proven. Trusted by top doctors and used by millions.
+Image Prompt: Goli Ashwagandha Gummies bottle with gummies spilling out and Ashwagandha plant, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 10:
+Purpose: VSL Slide 10
+Script: Don't wait until stress destroys your health and happiness. Try Goli risk-free for 30 days. If you don't feel the difference, it's on us.
+Image Prompt: Smiling person holding Goli bottle with "Risk-Free 30-Day Trial" badge overlaid, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+
+UPLOAD INSTRUCTIONS:
+1. Upload slides in order (vsl_slide_01.jpg, vsl_slide_02.jpg, etc.)
+2. Use TikTok Shop carousel format
+3. Each slide has professional text overlay with TikTok-style formatting
+4. Monitor engagement and adjust posting strategy as needed
+
+Created: 2025-11-14T17:35:33.920732
