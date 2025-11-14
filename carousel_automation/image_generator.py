@@ -167,6 +167,86 @@ class ImageGenerator:
             self.logger.error(f"❌ Recraft V3 generation failed: {e}")
             raise
     
+
+    async def _generate_kie_flux_kontext(self, slide: Any, product_image_path: str) -> str:
+        """🌟 Generate UGC-style image using kie.ai Flux Kontext with product reference"""
+        
+        if not Config.KIE_AI_API_KEY:
+            raise ValueError("KIE_AI_API_KEY not configured in .env file")
+        
+        # Enhance prompt for UGC-style natural scenes
+        enhanced_prompt = self._enhance_prompt_for_ugc(slide.dalle_prompt)
+        enhanced_prompt = f"{enhanced_prompt}. Natural, authentic UGC-style photo featuring the product from the reference image."
+        
+        self.logger.info(f"🎨 kie.ai Flux Kontext prompt for slide {slide.slide_number}: {enhanced_prompt[:100]}...")
+        
+        try:
+            # Read and encode product image as base64
+            import base64
+            with open(product_image_path, 'rb') as f:
+                product_data = base64.b64encode(f.read()).decode('utf-8')
+            
+            self.logger.info(f"📤 Uploading product reference to kie.ai...")
+            
+            # Prepare request payload
+            headers = {
+                "Authorization": f"Bearer {Config.KIE_AI_API_KEY}",
+                "Content-Type": "application/json"
+            }
+            
+            payload = {
+                "prompt": enhanced_prompt,
+                "filesBase64": [product_data],  # Pass product image as base64
+                "aspectRatio": "2:3",  # Closest to 9:16 that kie.ai supports
+                "model": "flux-kontext-pro",  # Use pro model for better quality
+                "nVariants": 1
+            }
+            
+            # Make async request to kie.ai
+            async with aiohttp.ClientSession() as session:
+                async with session.post(
+                    "https://api.kie.ai/api/v1/flux-kontext/generate",
+                    headers=headers,
+                    json=payload,
+                    timeout=aiohttp.ClientTimeout(total=120)
+                ) as response:
+                    
+                    if response.status != 200:
+                        error_text = await response.text()
+                        raise Exception(f"kie.ai API error (status {response.status}): {error_text}")
+                    
+                    result = await response.json()
+                    self.logger.info(f"✅ kie.ai response received")
+            
+            # Extract image URL from response
+            if 'images' in result and len(result['images']) > 0:
+                image_url = result['images'][0]['url']
+            elif 'imageUrl' in result:
+                image_url = result['imageUrl']
+            elif 'data' in result and 'images' in result['data']:
+                image_url = result['data']['images'][0]['url']
+            else:
+                raise Exception(f"Unexpected response format from kie.ai: {result}")
+            
+            # Download and save image
+            filename = f"slide_{slide.slide_number}_kie_flux_kontext.jpg"
+            local_path = await download_image(image_url, Config.TEMP_DIRECTORY, filename)
+            
+            # Resize to exact 1080x1920 dimensions
+            from PIL import Image as PILImage
+            img = PILImage.open(local_path)
+            if img.size != (1080, 1920):
+                self.logger.info(f"📐 Resizing kie.ai image from {img.size} to 1080x1920...")
+                img = img.resize((1080, 1920), PILImage.Resampling.LANCZOS)
+                img.save(local_path, 'JPEG', quality=95)
+            
+            self.logger.info(f"✅ kie.ai Flux Kontext generated: {local_path}")
+            return local_path
+            
+        except Exception as e:
+            self.logger.error(f"❌ kie.ai Flux Kontext generation failed: {e}")
+            raise
+
     async def _generate_flux_redux(self, slide: Any, product_image_path: str) -> str:
         """Generate image using FLUX Redux for product identity preservation"""
         
