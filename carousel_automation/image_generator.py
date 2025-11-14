@@ -181,63 +181,70 @@ class ImageGenerator:
         self.logger.info(f"🎨 kie.ai 4o Image prompt for slide {slide.slide_number}: {enhanced_prompt[:100]}...")
         
         try:
-            # Step 1: Upload product image to kie.ai file storage
-            import base64
             from PIL import Image as PILImage
-            import io
-            import os
+            import aiohttp
             
-            # Load and prepare product image
-            img = PILImage.open(product_image_path)
-            
-            # Convert to JPEG and compress
-            buffer = io.BytesIO()
-            img.convert('RGB').save(buffer, format='JPEG', quality=90, optimize=True)
-            product_data = base64.b64encode(buffer.getvalue()).decode('utf-8')
-            
-            self.logger.info(f"📤 Uploading product image to kie.ai file storage...")
-            
-            # Prepare upload headers
-            upload_headers = {
-                "Authorization": f"Bearer {Config.KIE_AI_API_KEY}",
-                "Content-Type": "application/json"
-            }
-            
-            # Upload payload (note: parameter is base64Data, not base64)
-            upload_payload = {
-                "base64Data": product_data,
-                "uploadPath": "product-images",
-                "fileName": f"product_{slide.slide_number}_{os.path.basename(product_image_path)}"
-            }
-            
-            # Upload file to kie.ai
-            async with aiohttp.ClientSession() as session:
-                async with session.post(
-                    "https://kieai.redpandaai.co/api/file-base64-upload",
-                    headers=upload_headers,
-                    json=upload_payload,
-                    timeout=aiohttp.ClientTimeout(total=30)
-                ) as upload_response:
-                    
-                    if upload_response.status != 200:
-                        error_text = await upload_response.text()
-                        raise Exception(f"File upload failed (status {upload_response.status}): {error_text}")
-                    
-                    upload_result = await upload_response.json()
-                    
-                    # Extract the file URL from response
-                    if 'data' in upload_result and 'downloadUrl' in upload_result['data']:
-                        product_url = upload_result['data']['downloadUrl']
-                    elif 'data' in upload_result and 'url' in upload_result['data']:
-                        product_url = upload_result['data']['url']
-                    elif 'downloadUrl' in upload_result:
-                        product_url = upload_result['downloadUrl']
-                    elif 'url' in upload_result:
-                        product_url = upload_result['url']
-                    else:
-                        raise Exception(f"No URL in upload response: {upload_result}")
-                    
-                    self.logger.info(f"✅ Product image uploaded: {product_url}")
+            # Check if product_image_path is already a URL (e.g., from Cloudinary)
+            if product_image_path.startswith('http://') or product_image_path.startswith('https://'):
+                product_url = product_image_path
+                self.logger.info(f"✅ Using external image URL: {product_url}")
+            else:
+                # Local file - need to upload to kie.ai first
+                import base64
+                import io
+                import os
+                
+                # Load and prepare product image
+                img = PILImage.open(product_image_path)
+                
+                # Convert to JPEG and compress
+                buffer = io.BytesIO()
+                img.convert('RGB').save(buffer, format='JPEG', quality=90, optimize=True)
+                product_data = base64.b64encode(buffer.getvalue()).decode('utf-8')
+                
+                self.logger.info(f"📤 Uploading product image to kie.ai file storage...")
+                
+                # Prepare upload headers
+                upload_headers = {
+                    "Authorization": f"Bearer {Config.KIE_AI_API_KEY}",
+                    "Content-Type": "application/json"
+                }
+                
+                # Upload payload
+                upload_payload = {
+                    "base64Data": product_data,
+                    "uploadPath": "product-images",
+                    "fileName": f"product_{slide.slide_number}_{os.path.basename(product_image_path)}"
+                }
+                
+                # Upload file to kie.ai
+                async with aiohttp.ClientSession() as session:
+                    async with session.post(
+                        "https://kieai.redpandaai.co/api/file-base64-upload",
+                        headers=upload_headers,
+                        json=upload_payload,
+                        timeout=aiohttp.ClientTimeout(total=30)
+                    ) as upload_response:
+                        
+                        if upload_response.status != 200:
+                            error_text = await upload_response.text()
+                            raise Exception(f"File upload failed (status {upload_response.status}): {error_text}")
+                        
+                        upload_result = await upload_response.json()
+                        
+                        # Extract the file URL from response
+                        if 'data' in upload_result and 'downloadUrl' in upload_result['data']:
+                            product_url = upload_result['data']['downloadUrl']
+                        elif 'data' in upload_result and 'url' in upload_result['data']:
+                            product_url = upload_result['data']['url']
+                        elif 'downloadUrl' in upload_result:
+                            product_url = upload_result['downloadUrl']
+                        elif 'url' in upload_result:
+                            product_url = upload_result['url']
+                        else:
+                            raise Exception(f"No URL in upload response: {upload_result}")
+                        
+                        self.logger.info(f"✅ Product image uploaded: {product_url}")
             
                 self.logger.info(f"📤 Sending generation request to kie.ai 4o Image API...")
                 
