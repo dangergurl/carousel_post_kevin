@@ -1,0 +1,84 @@
+
+VSL Script for Ashwagandha Gummies
+==================================================
+
+Product: Ashwagandha Gummies
+Brand: Goli
+Price: $19.99
+Category: general
+Style: TikTok-style (white text with dark outline)
+Product Model: FAL_NANO_BANANA
+
+SLIDES:
+
+Slide 1:
+Purpose: VSL Slide 1
+Script: I forgot my best friend's birthday...for the third year in a row. I felt like the worst friend ever.
+Image Prompt: Sad woman sitting alone on couch with head in hands, calendar on wall with missed birthday circled in red, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 2:
+Purpose: VSL Slide 2
+Script: Stress and anxiety were taking over my life. I was forgetting important dates, losing my keys constantly, and struggling to focus at work. I felt like I was letting everyone down.
+Image Prompt: Frazzled woman searching through purse for lost keys, messy desk with piles of unfinished work in background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 3:
+Purpose: VSL Slide 3
+Script: I thought this was just a normal part of getting older. But then I discovered a hidden truth: chronic stress was literally shrinking my brain. While I was struggling, an ancient herb held the secret to restoring my mental clarity.
+Image Prompt: Closeup of woman's worried eyes, faded image of brain scan showing shrinkage in background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 4:
+Purpose: VSL Slide 4
+Script: My sister, a naturopath, told me about ashwagandha. This "royal herb" has been used in Ayurvedic medicine for over 6,000 years to relieve stress and sharpen focus. Modern studies back up its brain-boosting power.
+Image Prompt: Smiling woman having coffee with sister, sister pointing to laptop screen showing ashwagandha research, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 5:
+Purpose: VSL Slide 5
+Script: Ashwagandha's stress-busting effects have been confirmed by over 200 scientific studies. It's even been shown to regrow brain cells and reverse memory loss. But quality is crucial - it must be organic, full-spectrum, and clinically-dosed.
+Image Prompt: Stack of scientific journals with ashwagandha studies, microscope image of neuron regrowth in background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 6:
+Purpose: VSL Slide 6
+Script: I started taking organic ashwagandha daily. The results were incredible: 
+Day 3: I stopped misplacing my phone.
+Day 7: I remembered every item on my grocery list.
+Week 2: I got a raise at work for my razor-sharp focus.
+Image Prompt: Smiling woman confidently striding through office, calendar with checkmarks on desk, coworkers looking impressed in background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 7:
+Purpose: VSL Slide 7
+Script: My once-skeptical husband was blown away. "You're like a new person," he said. "You're nailing it at work, crushing your to-do lists, and you haven't missed a single anniversary or birthday since you started taking ashwagandha." Even my mom noticed my renewed mental sharpness.
+Image Prompt: Happy couple embracing, husband looking at wife with pride, wedding anniversary card on table in foreground, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 8:
+Purpose: VSL Slide 8
+Script: Now, I'm the friend who never forgets a birthday or important event. I'm tackling my workload with ease and confidence. And I'm remembering every little detail - from where I put my keys to my husband's coffee order. Ashwagandha gave me my mental edge back.
+Image Prompt: Woman celebrating with friends at birthday party, wrapped present and birthday cake on table, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 9:
+Purpose: VSL Slide 9
+Script: The ashwagandha that transformed my brain is Goli Ashwagandha Gummies. Goli uses only organic, full-spectrum ashwagandha at clinically-proven dosages. Their gummies are vegan, non-GMO, and free of gelatin, gluten, and allergens. It's the highest quality ashwagandha on the market.
+Image Prompt: Goli Ashwagandha Gummies bottle and gummies scattered on white marble counter, green plant leaves in background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 10:
+Purpose: VSL Slide 10
+Script: Don't let stress steal your mental sharpness. Try Goli Ashwagandha Gummies risk-free for 30 days. If you don't feel your memory and focus improving, you'll get your money back. Goli is the only ashwagandha I trust to keep my mind razor-sharp. But hurry - they sell out every few weeks, and I'd hate for you to miss out on reclaiming your mental edge.
+Image Prompt: Smiling woman holding Goli Ashwagandha Gummies bottle, "Money-Back Guarantee" and "Limited Supply" text overlaid, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+
+UPLOAD INSTRUCTIONS:
+1. Upload slides in order (vsl_slide_01.jpg, vsl_slide_02.jpg, etc.)
+2. Use TikTok Shop carousel format
+3. Each slide has professional text overlay with TikTok-style formatting
+4. Monitor engagement and adjust posting strategy as needed
+
+Created: 2025-11-14T19:35:51.202562
