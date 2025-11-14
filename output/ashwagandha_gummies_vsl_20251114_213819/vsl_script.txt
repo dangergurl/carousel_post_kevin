@@ -1,0 +1,81 @@
+
+VSL Script for Ashwagandha Gummies
+==================================================
+
+Product: Ashwagandha Gummies
+Brand: Goli
+Price: $19.99
+Category: general
+Style: TikTok-style (white text with dark outline)
+Product Model: FAL_NANO_BANANA
+
+SLIDES:
+
+Slide 1:
+Purpose: VSL Slide 1
+Script: I'll never forget the day I had a full-blown panic attack in the grocery store. My heart was racing, my palms were sweating, and I felt like I couldn't breathe. I had to leave my cart full of groceries and rush out of there.
+Image Prompt: Woman with a look of panic and distress on her face, standing in the middle of a grocery store aisle, abandoned shopping cart beside her, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 2:
+Purpose: VSL Slide 2
+Script: Anxiety was taking over my life. I was constantly on edge, snapping at my loved ones, and struggling to focus at work. I felt like a failure as a mom, a wife, and an employee.
+Image Prompt: Woman sitting on the edge of her bed, head in her hands, looking exhausted and overwhelmed, family photos on the nightstand, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 3:
+Purpose: VSL Slide 3
+Script: I tried everything to calm my anxiety—meditation, deep breathing, even prescription meds. But nothing seemed to work long-term. I felt like I was just masking the symptoms, not addressing the root cause.
+Image Prompt: Close-up of a woman's face, looking frustrated and helpless, with a collage of anti-anxiety methods in the background (meditation, pills, deep breathing), ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 4:
+Purpose: VSL Slide 4
+Script: That's when my sister, a holistic nutritionist, told me about an ancient herb called ashwagandha. She said it had been used for centuries in Ayurvedic medicine to promote calmness and resilience to stress.
+Image Prompt: Two sisters sitting at a kitchen table, one explaining something to the other with a caring and knowledgeable expression, a cup of herbal tea in front of them, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 5:
+Purpose: VSL Slide 5
+Script: I was skeptical at first, but then I found out that ashwagandha is backed by modern science too. Clinical studies have shown that it can reduce cortisol (the stress hormone) by up to 30%, without the side effects of prescription meds.
+Image Prompt: A collage of scientific research papers, charts, and graphs about ashwagandha, with a magnifying glass highlighting key findings, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 6:
+Purpose: VSL Slide 6
+Script: I decided to give ashwagandha a try, and I couldn't believe the difference it made. Within a week, I felt more balanced and in control. After a month, my panic attacks had stopped completely. I was finally able to be the mom, wife, and employee I wanted to be.
+Image Prompt: A smiling woman playing with her kids in the park, looking relaxed and joyful, a calendar in the corner showing the progression of weeks, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 7:
+Purpose: VSL Slide 7
+Script: My husband was amazed at the change in me. He said it was like having the old me back again. Even my skeptical mother-in-law asked what my secret was!
+Image Prompt: A husband hugging his wife from behind, both smiling warmly, with a surprised and impressed mother-in-law looking on, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 8:
+Purpose: VSL Slide 8
+Script: Now, I have the energy to keep up with my kids, the focus to excel at work, and the resilience to handle whatever life throws my way. I feel like I'm finally thriving, not just surviving.
+Image Prompt: A woman confidently leading a meeting at work, then transitioning to her playing energetically with her children at home, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 9:
+Purpose: VSL Slide 9
+Script: The ashwagandha supplement that changed my life? Goli Ashwagandha Gummies. They're made with the highest quality organic ashwagandha, clinically proven to reduce stress and anxiety. And they taste amazing too!
+Image Prompt: A hand holding a bottle of Goli Ashwagandha Gummies, with the logo clearly visible, surrounded by organic ashwagandha leaves and clinical research papers, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 10:
+Purpose: VSL Slide 10
+Script: I only wish I'd discovered Goli Ashwagandha Gummies sooner. If you're struggling with stress and anxiety like I was, don't wait another day to try them. Your future self will thank you.
+Image Prompt: A smiling woman looking directly at the camera, holding a bottle of Goli Ashwagandha Gummies, with a soft, hopeful expression, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+
+UPLOAD INSTRUCTIONS:
+1. Upload slides in order (vsl_slide_01.jpg, vsl_slide_02.jpg, etc.)
+2. Use TikTok Shop carousel format
+3. Each slide has professional text overlay with TikTok-style formatting
+4. Monitor engagement and adjust posting strategy as needed
+
+Created: 2025-11-14T21:38:19.060831

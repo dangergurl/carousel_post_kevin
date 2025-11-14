@@ -1,0 +1,72 @@
+{
+  "product_name": "Ashwagandha Gummies",
+  "product_price": 19.99,
+  "product_category": "general",
+  "brand": "Goli",
+  "slide_count": 10,
+  "created_at": "2025-11-14T21:38:19.060831",
+  "overlay_style": "TikTok-style (white text with dark outline)",
+  "product_model": "fal_nano_banana",
+  "slides": [
+    {
+      "slide_number": 1,
+      "script": "I'll never forget the day I had a full-blown panic attack in the grocery store. My heart was racing, my palms were sweating, and I felt like I couldn't breathe. I had to leave my cart full of groceries and rush out of there.",
+      "image_prompt": "Woman with a look of panic and distress on her face, standing in the middle of a grocery store aisle, abandoned shopping cart beside her, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 1"
+    },
+    {
+      "slide_number": 2,
+      "script": "Anxiety was taking over my life. I was constantly on edge, snapping at my loved ones, and struggling to focus at work. I felt like a failure as a mom, a wife, and an employee.",
+      "image_prompt": "Woman sitting on the edge of her bed, head in her hands, looking exhausted and overwhelmed, family photos on the nightstand, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 2"
+    },
+    {
+      "slide_number": 3,
+      "script": "I tried everything to calm my anxiety\u2014meditation, deep breathing, even prescription meds. But nothing seemed to work long-term. I felt like I was just masking the symptoms, not addressing the root cause.",
+      "image_prompt": "Close-up of a woman's face, looking frustrated and helpless, with a collage of anti-anxiety methods in the background (meditation, pills, deep breathing), ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 3"
+    },
+    {
+      "slide_number": 4,
+      "script": "That's when my sister, a holistic nutritionist, told me about an ancient herb called ashwagandha. She said it had been used for centuries in Ayurvedic medicine to promote calmness and resilience to stress.",
+      "image_prompt": "Two sisters sitting at a kitchen table, one explaining something to the other with a caring and knowledgeable expression, a cup of herbal tea in front of them, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 4"
+    },
+    {
+      "slide_number": 5,
+      "script": "I was skeptical at first, but then I found out that ashwagandha is backed by modern science too. Clinical studies have shown that it can reduce cortisol (the stress hormone) by up to 30%, without the side effects of prescription meds.",
+      "image_prompt": "A collage of scientific research papers, charts, and graphs about ashwagandha, with a magnifying glass highlighting key findings, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 5"
+    },
+    {
+      "slide_number": 6,
+      "script": "I decided to give ashwagandha a try, and I couldn't believe the difference it made. Within a week, I felt more balanced and in control. After a month, my panic attacks had stopped completely. I was finally able to be the mom, wife, and employee I wanted to be.",
+      "image_prompt": "A smiling woman playing with her kids in the park, looking relaxed and joyful, a calendar in the corner showing the progression of weeks, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 6"
+    },
+    {
+      "slide_number": 7,
+      "script": "My husband was amazed at the change in me. He said it was like having the old me back again. Even my skeptical mother-in-law asked what my secret was!",
+      "image_prompt": "A husband hugging his wife from behind, both smiling warmly, with a surprised and impressed mother-in-law looking on, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 7"
+    },
+    {
+      "slide_number": 8,
+      "script": "Now, I have the energy to keep up with my kids, the focus to excel at work, and the resilience to handle whatever life throws my way. I feel like I'm finally thriving, not just surviving.",
+      "image_prompt": "A woman confidently leading a meeting at work, then transitioning to her playing energetically with her children at home, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 8"
+    },
+    {
+      "slide_number": 9,
+      "script": "The ashwagandha supplement that changed my life? Goli Ashwagandha Gummies. They're made with the highest quality organic ashwagandha, clinically proven to reduce stress and anxiety. And they taste amazing too!",
+      "image_prompt": "A hand holding a bottle of Goli Ashwagandha Gummies, with the logo clearly visible, surrounded by organic ashwagandha leaves and clinical research papers, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 9"
+    },
+    {
+      "slide_number": 10,
+      "script": "I only wish I'd discovered Goli Ashwagandha Gummies sooner. If you're struggling with stress and anxiety like I was, don't wait another day to try them. Your future self will thank you.",
+      "image_prompt": "A smiling woman looking directly at the camera, holding a bottle of Goli Ashwagandha Gummies, with a soft, hopeful expression, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 10"
+    }
+  ]
+}
