@@ -241,6 +241,75 @@ class ImageGenerator:
             elif 'image' in result and 'url' in result['image']:
                 image_url = result['image']['url']
             else:
+
+    async def _generate_fal_nano_banana_lifestyle(self, slide: Any) -> str:
+        """🌟 Generate UGC-style lifestyle image using FAL.ai Nano Banana (NO product reference)"""
+        
+        if not Config.FAL_KEY:
+            raise ValueError("FAL_KEY not configured in .env file")
+        
+        # Enhance prompt for UGC-style natural scenes (NO product)
+        enhanced_prompt = self._enhance_prompt_for_ugc(slide.dalle_prompt)
+        enhanced_prompt = f"{enhanced_prompt}. Hyper-realistic, natural UGC-style photo, 9:16 vertical format, authentic and relatable."
+        
+        self.logger.info(f"🎨 FAL Nano Banana (lifestyle) prompt for slide {slide.slide_number}: {enhanced_prompt[:100]}...")
+        
+        try:
+            from PIL import Image as PILImage
+            import fal_client
+            
+            # Submit generation request (NO image_urls for lifestyle)
+            self.logger.info(f"🚀 Submitting lifestyle scene to FAL Nano Banana...")
+            
+            handler = await asyncio.get_event_loop().run_in_executor(
+                None,
+                lambda: fal_client.submit(
+                    "fal-ai/gemini-25-flash-image",  # Text-to-image endpoint
+                    arguments={
+                        "prompt": enhanced_prompt,
+                        "num_images": 1,
+                        "aspect_ratio": "9:16",  # Perfect for TikTok
+                        "output_format": "jpeg"
+                    }
+                )
+            )
+            
+            self.logger.info(f"📋 Request submitted, waiting for result...")
+            
+            # Wait for result
+            result = await asyncio.get_event_loop().run_in_executor(
+                None,
+                handler.get
+            )
+            
+            # Extract image URL
+            if 'images' in result and len(result['images']) > 0:
+                image_url = result['images'][0]['url']
+            elif 'image' in result and 'url' in result['image']:
+                image_url = result['image']['url']
+            else:
+                raise Exception(f"No image URL in response: {result}")
+            
+            self.logger.info(f"✅ Image ready: {image_url}")
+            
+            # Download and save
+            filename = f"slide_{slide.slide_number}_nano_banana_lifestyle.jpg"
+            local_path = await download_image(image_url, Config.TEMP_DIRECTORY, filename)
+            
+            # Resize to exact 1080x1920
+            img = PILImage.open(local_path)
+            if img.size != (1080, 1920):
+                self.logger.info(f"📐 Resizing from {img.size} to 1080x1920...")
+                img = img.resize((1080, 1920), PILImage.Resampling.LANCZOS)
+                img.save(local_path, 'JPEG', quality=95)
+            
+            self.logger.info(f"✅ FAL Nano Banana (lifestyle) generated: {local_path}")
+            return local_path
+            
+        except Exception as e:
+            self.logger.error(f"❌ FAL Nano Banana (lifestyle) generation failed: {e}")
+            raise
+
                 raise Exception(f"No image URL in response: {result}")
             
             self.logger.info(f"✅ Image ready: {image_url}")
