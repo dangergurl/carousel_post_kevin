@@ -327,17 +327,8 @@ class ImageGenerator:
         except Exception as e:
             self.logger.error(f"❌ FAL Nano Banana (lifestyle) generation failed: {e}")
             raise
-
-                raise Exception(f"No image URL in response: {result}")
-            
-            self.logger.info(f"✅ Image ready: {image_url}")
-            
-            # Download and save
-            filename = f"slide_{slide.slide_number}_nano_banana.jpg"
-            local_path = await download_image(image_url, Config.TEMP_DIRECTORY, filename)
-            
-            # Resize to exact 1080x1920
-            img = PILImage.open(local_path)
+    
+    async def _generate_replicate_flux(self, slide: Any, product_image_path: Optional[str]) -> str:
             if img.size != (1080, 1920):
                 self.logger.info(f"📐 Resizing from {img.size} to 1080x1920...")
                 img = img.resize((1080, 1920), PILImage.Resampling.LANCZOS)
