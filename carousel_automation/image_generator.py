@@ -226,12 +226,14 @@ class ImageGenerator:
                     upload_result = await upload_response.json()
                     
                     # Extract the file URL from response
-                    if 'data' in upload_result and 'url' in upload_result['data']:
+                    if 'data' in upload_result and 'downloadUrl' in upload_result['data']:
+                        product_url = upload_result['data']['downloadUrl']
+                    elif 'data' in upload_result and 'url' in upload_result['data']:
                         product_url = upload_result['data']['url']
+                    elif 'downloadUrl' in upload_result:
+                        product_url = upload_result['downloadUrl']
                     elif 'url' in upload_result:
                         product_url = upload_result['url']
-                    elif 'fileUrl' in upload_result:
-                        product_url = upload_result['fileUrl']
                     else:
                         raise Exception(f"No URL in upload response: {upload_result}")
                     
