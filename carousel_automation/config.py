@@ -10,6 +10,7 @@ class Config:
     REPLICATE_API_TOKEN = os.getenv("REPLICATE_API_TOKEN")
     FAL_KEY = os.getenv("FAL_KEY")  # For FAL.ai Gemini 2.5 Flash image generation
     GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")  # For Google Imagen 4.0 Ultra
+    KIE_AI_API_KEY = os.getenv("KIE_AI_API_KEY")  # For kie.ai Flux Kontext (UGC-style product photography)
     
     # Service Configuration
     DEFAULT_IMAGE_SERVICE = os.getenv("DEFAULT_IMAGE_SERVICE", "dalle3")
