@@ -329,32 +329,18 @@ class ImageGenerator:
             filename = f"slide_{slide.slide_number}_gemini.jpg"
             local_path = await download_image(image_url, Config.TEMP_DIRECTORY, filename)
             
-            # Ensure 9:16 aspect ratio
+            # ALWAYS ensure exact 1080x1920 size
             from PIL import Image as PILImage
             img = PILImage.open(local_path)
             width, height = img.size
-            target_aspect = 9 / 16
-            current_aspect = width / height
+            target_width = 1080
+            target_height = 1920
             
-            if abs(current_aspect - target_aspect) > 0.01:
-                self.logger.info(f"📐 Converting to 9:16...")
-                target_width = 1080
-                target_height = 1920
-                
-                if current_aspect > target_aspect:
-                    new_width = int(height * target_aspect)
-                    new_height = height
-                    left = (width - new_width) // 2
-                    top = 0
-                else:
-                    new_width = width
-                    new_height = int(width / target_aspect)
-                    left = 0
-                    top = (height - new_height) // 2
-                
-                cropped = img.crop((left, top, left + new_width, top + new_height))
-                resized = cropped.resize((target_width, target_height), PILImage.Resampling.LANCZOS)
+            if width != target_width or height != target_height:
+                self.logger.info(f"📐 Resizing from {width}x{height} to {target_width}x{target_height}...")
+                resized = img.resize((target_width, target_height), PILImage.Resampling.LANCZOS)
                 resized.save(local_path, 'JPEG', quality=95)
+                self.logger.info(f"✅ Resized to exact 1080x1920")
             
             return local_path
             
