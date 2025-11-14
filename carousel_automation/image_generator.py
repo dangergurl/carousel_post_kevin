@@ -241,6 +241,7 @@ class ImageGenerator:
             elif 'image' in result and 'url' in result['image']:
                 image_url = result['image']['url']
             else:
+                raise Exception(f"No image URL in response: {result}")
 
     async def _generate_fal_nano_banana_lifestyle(self, slide: Any) -> str:
         """🌟 Generate UGC-style lifestyle image using FAL.ai Nano Banana (NO product reference)"""
