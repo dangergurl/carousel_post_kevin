@@ -98,6 +98,17 @@ class ImageGenerator:
                     self.logger.warning(f"⚠️  FLUX img2img failed: {e}, falling back to Gemini")
                     return await self._generate_gemini(slide, None)
         
+        # Use Nano Banana for lifestyle slides (UGC-style, no product)
+        elif self.product_model == 'fal_nano_banana':
+            service = 'FAL Nano Banana (Lifestyle)'
+            self.logger.info(f"🎨 Slide {slide.slide_number} → {service} (UGC-style)")
+            
+            try:
+                return await self._generate_fal_nano_banana_lifestyle(slide)
+            except Exception as e:
+                self.logger.warning(f"⚠️  Nano Banana failed: {e}, falling back to DALL-E 3")
+                return await self._generate_dalle3(slide)
+        
         # Use Gemini for regular slides (no product reference)
         elif self.use_gemini:
             service = 'Gemini 2.5 Flash'
