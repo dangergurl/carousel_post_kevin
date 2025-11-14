@@ -1,0 +1,72 @@
+{
+  "product_name": "Ashwagandha Gummies",
+  "product_price": 19.99,
+  "product_category": "general",
+  "brand": "Goli",
+  "slide_count": 10,
+  "created_at": "2025-11-14T18:25:24.845583",
+  "overlay_style": "TikTok-style (white text with dark outline)",
+  "product_model": "kie_4o_image",
+  "slides": [
+    {
+      "slide_number": 1,
+      "script": "I used to wake up feeling exhausted every single day. No matter how much sleep I got, my mind was foggy and I struggled to focus at work.",
+      "image_prompt": "Woman with tired expression sitting at desk rubbing temples, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 1"
+    },
+    {
+      "slide_number": 2,
+      "script": "Stress and anxiety were taking over my life. I snapped at my kids, couldn't enjoy time with friends, and felt like I was in a constant state of overwhelm. I knew something had to change.",
+      "image_prompt": "Stressed woman with head in hands surrounded by chaotic scene with kids toys and messy house, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 2"
+    },
+    {
+      "slide_number": 3,
+      "script": "I tried meditation, yoga, even prescription meds, but nothing seemed to help. That's when my sister, who's an Ayurvedic practitioner, told me about an ancient herb called Ashwagandha. She said it's been used for centuries to reduce stress and boost energy.",
+      "image_prompt": "Ayurvedic practitioner sister holding Ashwagandha root and pointing to old book illustration, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 3"
+    },
+    {
+      "slide_number": 4,
+      "script": "I was skeptical, but I did some research and discovered that Ashwagandha has been clinically proven to lower cortisol levels, the stress hormone. It's even been recognized by the National Institutes of Health for its calming properties.",
+      "image_prompt": "Scientific research papers and journals with Ashwagandha studies and NIH logo, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 4"
+    },
+    {
+      "slide_number": 5,
+      "script": "So I decided to give it a try. The first few days, I didn't notice much. But by the end of the first week, I started waking up feeling more refreshed. By week 2, my mind felt clearer and I was able to focus better at work.",
+      "image_prompt": "Smiling woman stretching in bed as sunlight streams in, looking refreshed and energized, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 5"
+    },
+    {
+      "slide_number": 6,
+      "script": "By the end of the month, the change was dramatic. My stress levels had dropped and I felt like I had so much more patience with my kids. Even my husband noticed the difference and asked what my secret was!",
+      "image_prompt": "Happy family scene with woman smiling and playing with kids while husband looks on approvingly, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 6"
+    },
+    {
+      "slide_number": 7,
+      "script": "I shared my story with my best friend who was also struggling with stress and lack of energy. She was blown away by my transformation and ordered a bottle for herself that same day.",
+      "image_prompt": "Two women friends sitting together at cafe looking at phone and laughing, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 7"
+    },
+    {
+      "slide_number": 8,
+      "script": "Now, I wake up feeling energized and ready to take on the day. I'm more focused at work, more present with my family, and I feel like I'm finally living life to the fullest again. I only wish I'd discovered this sooner!",
+      "image_prompt": "Woman standing outside in nature with arms outstretched and smiling, looking vibrant and full of energy, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 8"
+    },
+    {
+      "slide_number": 9,
+      "script": "The Ashwagandha supplement that changed my life is Goli Ashwagandha Gummies. They use the highest quality organic Ashwagandha root and pack it into a delicious mixed berry gummy. It's the most concentrated Ashwagandha on the market.",
+      "image_prompt": "Goli Ashwagandha Gummies bottle and gummies spilling out, with Ashwagandha root and berries in background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 9"
+    },
+    {
+      "slide_number": 10,
+      "script": "If you're struggling with stress, anxiety, or low energy, you have to try Goli Ashwagandha Gummies. They've been a total game-changer for me and I know they can help you too. But hurry - they keep selling out! Don't miss your chance to feel your best again.",
+      "image_prompt": "Smiling woman holding up Goli Ashwagandha Gummies bottle with \"You have to try this!\" text overlay, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 10"
+    }
+  ]
+}
