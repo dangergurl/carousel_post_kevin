@@ -292,8 +292,8 @@ class ImageGenerator:
                 
                 self.logger.info(f"📋 Task ID: {task_id}, polling for result...")
                 
-                # Poll for completion (max 90 seconds)
-                max_attempts = 45
+                # Poll for completion (max 180 seconds / 3 minutes)
+                max_attempts = 90
                 for attempt in range(max_attempts):
                     await asyncio.sleep(2)  # Wait 2 seconds between polls
                     
