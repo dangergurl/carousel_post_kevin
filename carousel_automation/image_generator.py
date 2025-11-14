@@ -303,6 +303,14 @@ class ImageGenerator:
         filename = f"slide_{slide.slide_number}_flux.jpg"
         local_path = await download_image(image_url, Config.TEMP_DIRECTORY, filename)
         
+        # Ensure exact 1080x1920 size
+        from PIL import Image as PILImage
+        img = PILImage.open(local_path)
+        if img.size != (1080, 1920):
+            self.logger.info(f"📐 Resizing FLUX image to 1080x1920...")
+            img = img.resize((1080, 1920), PILImage.Resampling.LANCZOS)
+            img.save(local_path, 'JPEG', quality=95)
+        
         return local_path
     
     async def _generate_gemini(self, slide: Any, product_image_path: Optional[str] = None, custom_prompt: str = None) -> str:
