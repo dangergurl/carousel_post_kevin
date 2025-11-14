@@ -1,0 +1,81 @@
+
+VSL Script for Ashwagandha Gummies
+==================================================
+
+Product: Ashwagandha Gummies
+Brand: Goli Nutrition
+Price: $19.99
+Category: supplements
+Style: TikTok-style (white text with dark outline)
+Product Model: FLUX_IMG2IMG
+
+SLIDES:
+
+Slide 1:
+Purpose: VSL Slide 1
+Script: I was so stressed, I forgot my anniversary. My wife was furious. I couldn't focus at work, snapped at my kids over nothing. I felt like I was losing control.
+Image Prompt: Man with head in hands looking stressed and overwhelmed at messy desk. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 2:
+Purpose: VSL Slide 2
+Script: Turns out, chronic stress was wrecking my health too. Headaches, insomnia, high blood pressure. My doctor warned me it could lead to heart disease if I didn't get it under control.
+Image Prompt: Doctor showing stressed man medical chart with warnings circled in red. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 3:
+Purpose: VSL Slide 3
+Script: I tried meditation, yoga, even prescription pills. Nothing worked. Then my trainer told me about an ancient herb called ashwagandha. Apparently, top athletes and CEOs have used it for centuries to stay calm under pressure.
+Image Prompt: Ancient Indian artwork depicting royalty being presented with ashwagandha root. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 4:
+Purpose: VSL Slide 4
+Script: I did some research and found out ashwagandha has been clinically proven to reduce cortisol, the stress hormone. It's even been shown to improve focus, energy and sleep quality. I had to try it.
+Image Prompt: Scientific journals and research papers about ashwagandha benefits scattered on desk. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 5:
+Purpose: VSL Slide 5
+Script: But not all ashwagandha is created equal. It has to be the right potency and purity to really work. That's when I discovered KSM-66, the world's most researched ashwagandha, made right here in the USA.
+Image Prompt: KSM-66 ashwagandha extraction process in high-tech pharmaceutical facility. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 6:
+Purpose: VSL Slide 6
+Script: I started taking KSM-66 every morning. In 3 days, I was sleeping through the night. After a week, my wife said I seemed calmer. By week 2, I was handling work stress like a pro. I couldn't believe it.
+Image Prompt: Smiling man waking up refreshed, working calmly at desk, hugging happy wife. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 7:
+Purpose: VSL Slide 7
+Script: Even my skeptical brother noticed the difference. He asked what my secret was. When I told my mom, she said "I need that stuff!" Now it's a daily ritual for my whole family.
+Image Prompt: Whole family sitting together laughing and looking relaxed and happy. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 8:
+Purpose: VSL Slide 8
+Script: Thanks to KSM-66, I'm a better husband, father, and leader. I sleep great, my blood pressure is normal, and I can handle anything that comes my way. It's a real life-changer.
+Image Prompt: Man confidently leading meeting, playing with kids, sleeping peacefully. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 9:
+Purpose: VSL Slide 9
+Script: That's why I'm thrilled Goli put KSM-66 in their Ashwagandha Gummies. It's the same clinically-proven organic ashwagandha I used, but easier to take. And it tastes amazing too.
+Image Prompt: Goli Ashwagandha Gummies bottle and gummies spilling out, with KSM-66 logo visible. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 10:
+Purpose: VSL Slide 10
+Script: If stress is controlling your life, you have to try Goli KSM-66 Ashwagandha Gummies. Trust me, you'll feel the difference. But hurry - they sell out fast and I'd hate for you to miss out on getting your life back.
+Image Prompt: Stressed person reaching for last bottle of Goli Ashwagandha Gummies on empty shelf. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+
+UPLOAD INSTRUCTIONS:
+1. Upload slides in order (vsl_slide_01.jpg, vsl_slide_02.jpg, etc.)
+2. Use TikTok Shop carousel format
+3. Each slide has professional text overlay with TikTok-style formatting
+4. Monitor engagement and adjust posting strategy as needed
+
+Created: 2025-11-14T16:04:07.187340
