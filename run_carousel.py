@@ -47,8 +47,8 @@ Examples:
                        help='Product image formatting: cover (crop to fill), contain (fit with padding), stretch')
     
     # Model selection
-    parser.add_argument('--product-model', choices=['recraft', 'flux_img2img', 'flux_redux'], default='recraft',
-                       help='Model for product photos (slides 8-10): recraft (best, default), flux_img2img, flux_redux')
+    parser.add_argument('--product-model', choices=['kie_flux_kontext', 'recraft', 'flux_img2img', 'flux_redux'], default='kie_flux_kontext',
+                       help='Model for product photos (slides 8-10): kie_flux_kontext (UGC-style, default), recraft, flux_img2img, flux_redux')
     parser.add_argument('--use-gemini', action='store_true', 
                        help='Use Gemini 2.5 Flash for scene slides (1-7) instead of FLUX')
     
