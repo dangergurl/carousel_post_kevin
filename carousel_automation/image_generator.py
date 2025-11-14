@@ -64,7 +64,12 @@ class ImageGenerator:
         
         # If product reference is provided, use the selected product model
         if product_image_path:
-            if self.product_model == 'kie_4o_image':
+            if self.product_model == 'fal_nano_banana':
+                self.logger.info(f"🎨 Slide {slide.slide_number} → FAL Nano Banana (UGC-style Product Integration)")
+                # NO FALLBACK - must use product image or fail
+                return await self._generate_fal_nano_banana(slide, product_image_path)
+            
+            elif self.product_model == 'kie_4o_image':
                 self.logger.info(f"🎨 Slide {slide.slide_number} → kie.ai 4o Image (UGC-style Product Integration)")
                 # NO FALLBACK - must use product image or fail
                 return await self._generate_kie_4o_image(slide, product_image_path)
