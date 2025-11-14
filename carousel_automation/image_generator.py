@@ -168,7 +168,7 @@ class ImageGenerator:
             raise
     
 
-    async def _generate_kie_flux_kontext(self, slide: Any, product_image_path: str) -> str:
+    async def _generate_kie_4o_image(self, slide: Any, product_image_path: str) -> str:
         """🌟 Generate UGC-style image using kie.ai Flux Kontext with product reference"""
         
         if not Config.KIE_AI_API_KEY:
