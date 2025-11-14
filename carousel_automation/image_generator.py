@@ -300,7 +300,7 @@ class ImageGenerator:
                     await asyncio.sleep(2)  # Wait 2 seconds between polls
                     
                     async with session.get(
-                        f"https://api.kie.ai/api/v1/gpt4o-image/get-image-details/{task_id}",
+                        f"https://api.kie.ai/api/v1/gpt4o-image/record-info?taskId={task_id}",
                         headers=headers,
                         timeout=aiohttp.ClientTimeout(total=10)
                     ) as status_response:
