@@ -181,17 +181,29 @@ class ImageGenerator:
         self.logger.info(f"🎨 kie.ai 4o Image prompt for slide {slide.slide_number}: {enhanced_prompt[:100]}...")
         
         try:
-            # Upload product image to a temporary storage to get a public URL
-            # For now, we'll use base64 data URL since that's simpler
+            # Resize and compress product image to reduce size for API
             import base64
             from PIL import Image as PILImage
+            import io
             
-            # Read product image
-            with open(product_image_path, 'rb') as f:
-                product_data = base64.b64encode(f.read()).decode('utf-8')
+            # Load and resize product image to reduce file size
+            img = PILImage.open(product_image_path)
+            
+            # Resize to max 1024px on longest side to keep under API limits
+            max_size = 1024
+            if max(img.size) > max_size:
+                ratio = max_size / max(img.size)
+                new_size = tuple(int(dim * ratio) for dim in img.size)
+                img = img.resize(new_size, PILImage.Resampling.LANCZOS)
+            
+            # Compress to JPEG with quality=85 to reduce size
+            buffer = io.BytesIO()
+            img.convert('RGB').save(buffer, format='JPEG', quality=85, optimize=True)
+            product_data = base64.b64encode(buffer.getvalue()).decode('utf-8')
             
             # Create data URL
             product_url = f"data:image/jpeg;base64,{product_data}"
+            self.logger.info(f"📏 Product image size after compression: {len(product_data)/1024:.1f}KB")
             
             self.logger.info(f"📤 Sending product reference to kie.ai 4o Image API...")
             
