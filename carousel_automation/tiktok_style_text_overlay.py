@@ -147,7 +147,7 @@ class TikTokStyleTextOverlay:
         words = text.split()
         lines = []
         current_line = ""
-        max_chars_per_line = 28  # ✅ FINAL: 28 characters per line
+        max_chars_per_line = 26  # Adjusted: 26 characters per line
         
         for word in words:
             # Test if adding this word would exceed the character limit
