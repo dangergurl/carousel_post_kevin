@@ -1,0 +1,81 @@
+
+VSL Script for Ashwagandha Gummies
+==================================================
+
+Product: Ashwagandha Gummies
+Brand: Goli
+Price: $19.99
+Category: general
+Style: TikTok-style (white text with dark outline)
+Product Model: FAL_NANO_BANANA
+
+SLIDES:
+
+Slide 1:
+Purpose: VSL Slide 1
+Script: I forgot my best friend's birthday...for the 3rd year in a row. I felt like the worst friend ever. My mind was so foggy, I could barely keep track of my own schedule, let alone remember important dates.
+Image Prompt: Ultra photorealistic close-up of a worried woman's face, looking distressed and frustrated, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 2:
+Purpose: VSL Slide 2
+Script: Turns out, I wasn't alone. My mom, my sister, even my co-workers were all struggling with the same thing - constant stress and brain fog. We joked about having "mommy brain", but deep down, we were all frustrated.
+Image Prompt: Ultra photorealistic group of diverse women in various settings (office, home, park) looking stressed and overwhelmed, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 3:
+Purpose: VSL Slide 3
+Script: What doctors don't tell you is that chronic stress can literally shrink your brain. While I was struggling to remember basic things, my brain was slowly deteriorating. I felt like I was losing myself.
+Image Prompt: Ultra photorealistic side-by-side comparison of a healthy brain and a stressed brain, with the stressed brain visibly smaller and deteriorated, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 4:
+Purpose: VSL Slide 4
+Script: That's when my sister told me about an ancient herb called Ashwagandha. She said it had been used for centuries in Ayurvedic medicine to calm the mind and protect the brain. I was skeptical, but I figured I had nothing to lose.
+Image Prompt: Ultra photorealistic image of Ashwagandha plant with vibrant green leaves and red berries, set against an ancient Ayurvedic medicine book, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 5:
+Purpose: VSL Slide 5
+Script: Turns out, Ashwagandha is backed by some serious science. It's been clinically proven to reduce cortisol (the stress hormone) by up to 30%, improve memory and focus, and even regenerate brain cells. No wonder it's been a best-kept secret for centuries!
+Image Prompt: Ultra photorealistic collage of scientific studies, brain scans, and research papers on Ashwagandha, with key findings highlighted, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 6:
+Purpose: VSL Slide 6
+Script: I started taking Ashwagandha every morning, and the results were incredible. Day 3: I woke up feeling refreshed for the first time in months. Day 7: I could focus on tasks without getting distracted. Week 2: I remembered every single birthday and anniversary - my friends were shocked!
+Image Prompt: Ultra photorealistic timeline showing a woman's transformation from stressed to happy and focused over 2 weeks, with specific milestones labeled, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 7:
+Purpose: VSL Slide 7
+Script: My mom was so impressed with my transformation, she started taking Ashwagandha too. Now, we joke that we've swapped "mommy brain" for "mighty brain"! Even my skeptical husband admitted that I seemed like a new person - more present, patient, and happy.
+Image Prompt: Ultra photorealistic image of a smiling multi-generational family (grandma, mom, daughter) holding Ashwagandha plants and looking vibrant and joyful, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 8:
+Purpose: VSL Slide 8
+Script: Thanks to Ashwagandha, I now have the mental clarity to juggle work, family, and social life without feeling overwhelmed. I'm more productive, more focused, and more present in every moment. It's like I've unlocked a new level of potential!
+Image Prompt: Ultra photorealistic image of a woman confidently multitasking between work, family, and hobbies, with a clear and focused expression, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 9:
+Purpose: VSL Slide 9
+Script: The secret to my transformation? Goli Ashwagandha Gummies. Goli has harnessed the power of this ancient herb in a delicious, easy-to-take gummy. Their KSM-66 Ashwagandha is the highest concentration extract on the market, backed by 22 clinical trials.
+Image Prompt: Ultra photorealistic image of Goli Ashwagandha Gummies bottle, with gummies spilling out and KSM-66 Ashwagandha callout, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 10:
+Purpose: VSL Slide 10
+Script: Don't wait until stress and brain fog take over your life. Try Goli Ashwagandha Gummies today and experience the life-changing benefits for yourself. Trust me, your future self (and your loved ones) will thank you. Get yours now before they're gone!
+Image Prompt: Ultra photorealistic image of a woman's hand holding a Goli Ashwagandha Gummies bottle, with a sunset background symbolizing a bright future, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+
+UPLOAD INSTRUCTIONS:
+1. Upload slides in order (vsl_slide_01.jpg, vsl_slide_02.jpg, etc.)
+2. Use TikTok Shop carousel format
+3. Each slide has professional text overlay with TikTok-style formatting
+4. Monitor engagement and adjust posting strategy as needed
+
+Created: 2025-11-14T19:41:35.913216
