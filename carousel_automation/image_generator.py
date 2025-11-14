@@ -64,7 +64,15 @@ class ImageGenerator:
         
         # If product reference is provided, use the selected product model
         if product_image_path:
-            if self.product_model == 'recraft':
+            if self.product_model == 'kie_flux_kontext':
+                self.logger.info(f"🎨 Slide {slide.slide_number} → kie.ai Flux Kontext (UGC-style Product Integration)")
+                try:
+                    return await self._generate_kie_flux_kontext(slide, product_image_path)
+                except Exception as e:
+                    self.logger.warning(f"⚠️  kie.ai Flux Kontext failed: {e}, falling back to DALL-E 3")
+                    return await self._generate_dalle3(slide)
+            
+            elif self.product_model == 'recraft':
                 self.logger.info(f"🎨 Slide {slide.slide_number} → Recraft V3 (Product Integration)")
                 try:
                     return await self._generate_recraft_v3(slide, product_image_path)
