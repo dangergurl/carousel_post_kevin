@@ -167,6 +167,86 @@ class ImageGenerator:
 
     async def _generate_kie_4o_image(self, slide: Any, product_image_path: str) -> str:
         """🌟 Generate UGC-style image using kie.ai 4o Image API with product reference"""
+
+    async def _generate_fal_nano_banana(self, slide: Any, product_image_path: str) -> str:
+        """🌟 Generate UGC-style image using FAL.ai Nano Banana (Gemini 2.5 Flash Image) with product reference"""
+        
+        if not Config.FAL_KEY:
+            raise ValueError("FAL_KEY not configured in .env file")
+        
+        # Enhance prompt for UGC-style natural scenes
+        enhanced_prompt = self._enhance_prompt_for_ugc(slide.dalle_prompt)
+        enhanced_prompt = f"{enhanced_prompt}. Feature the product from the reference image naturally in the scene, 9:16 vertical format."
+        
+        self.logger.info(f"🎨 FAL Nano Banana prompt for slide {slide.slide_number}: {enhanced_prompt[:100]}...")
+        
+        try:
+            from PIL import Image as PILImage
+            import fal_client
+            
+            # Use external URL directly (Cloudinary)
+            if product_image_path.startswith('http://') or product_image_path.startswith('https://'):
+                product_url = product_image_path
+                self.logger.info(f"✅ Using external product URL: {product_url}")
+            else:
+                # Local file - upload to FAL
+                self.logger.info(f"📤 Uploading product image to FAL.ai...")
+                product_url = fal_client.upload_file(product_image_path)
+                self.logger.info(f"✅ Uploaded: {product_url}")
+            
+            # Submit generation request
+            self.logger.info(f"🚀 Submitting to FAL Nano Banana...")
+            
+            handler = await asyncio.get_event_loop().run_in_executor(
+                None,
+                lambda: fal_client.submit(
+                    "fal-ai/gemini-25-flash-image/edit",
+                    arguments={
+                        "prompt": enhanced_prompt,
+                        "image_urls": [product_url],  # Reference image
+                        "num_images": 1,
+                        "aspect_ratio": "9:16",  # Perfect for TikTok
+                        "output_format": "jpeg"
+                    }
+                )
+            )
+            
+            self.logger.info(f"📋 Request submitted, waiting for result...")
+            
+            # Wait for result
+            result = await asyncio.get_event_loop().run_in_executor(
+                None,
+                handler.get
+            )
+            
+            # Extract image URL
+            if 'images' in result and len(result['images']) > 0:
+                image_url = result['images'][0]['url']
+            elif 'image' in result and 'url' in result['image']:
+                image_url = result['image']['url']
+            else:
+                raise Exception(f"No image URL in response: {result}")
+            
+            self.logger.info(f"✅ Image ready: {image_url}")
+            
+            # Download and save
+            filename = f"slide_{slide.slide_number}_nano_banana.jpg"
+            local_path = await download_image(image_url, Config.TEMP_DIRECTORY, filename)
+            
+            # Resize to exact 1080x1920
+            img = PILImage.open(local_path)
+            if img.size != (1080, 1920):
+                self.logger.info(f"📐 Resizing from {img.size} to 1080x1920...")
+                img = img.resize((1080, 1920), PILImage.Resampling.LANCZOS)
+                img.save(local_path, 'JPEG', quality=95)
+            
+            self.logger.info(f"✅ FAL Nano Banana generated: {local_path}")
+            return local_path
+            
+        except Exception as e:
+            self.logger.error(f"❌ FAL Nano Banana generation failed: {e}")
+            raise
+
         
         if not Config.KIE_AI_API_KEY:
             raise ValueError("KIE_AI_API_KEY not configured in .env file")
