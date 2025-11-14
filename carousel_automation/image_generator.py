@@ -310,19 +310,21 @@ class ImageGenerator:
                         
                         status_data = await status_response.json()
                         
-                        # Check if task is complete
+                        # Check if task is complete (status: SUCCESS)
                         if 'data' in status_data:
                             data = status_data['data']
-                            if data.get('status') == 'completed':
-                                # Extract image URL from images array
-                                if 'images' in data and len(data['images']) > 0:
-                                    image_url = data['images'][0].get('url')
+                            if data.get('status') == 'SUCCESS':
+                                # Extract image URL from result_urls
+                                if 'result_urls' in data and len(data['result_urls']) > 0:
+                                    image_url = data['result_urls'][0]
                                     self.logger.info(f"✅ Image ready: {image_url}")
                                     break
-                        elif 'imageUrl' in status_data:
-                            image_url = status_data['imageUrl']
-                            self.logger.info(f"✅ Image ready: {image_url}")
-                            break
+                        # Also check root level
+                        elif status_data.get('status') == 'SUCCESS':
+                            if 'result_urls' in status_data and len(status_data['result_urls']) > 0:
+                                image_url = status_data['result_urls'][0]
+                                self.logger.info(f"✅ Image ready: {image_url}")
+                                break
                 else:
                     raise Exception(f"Task {task_id} did not complete within timeout")
             
