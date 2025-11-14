@@ -212,11 +212,11 @@ class ImageGenerator:
             image_url = fal_client.upload_file(product_image_path)
             self.logger.info(f"✅ Uploaded to FAL.ai")
             
-            # IMPROVED: Increased strength from 0.35 to 0.55 for better product preservation
+            # OPTIMIZED: Lower strength creates SCENE with product, not just product
             request_data = {
                 "prompt": enhanced_prompt,
                 "image_url": image_url,
-                "strength": 0.55,  # ✨ IMPROVED: Better product preservation
+                "strength": 0.40,  # Lower = more scene generation, product integrated naturally
                 "num_inference_steps": 35,  # Increased for better quality
                 "guidance_scale": 4.5,
                 "image_size": {
