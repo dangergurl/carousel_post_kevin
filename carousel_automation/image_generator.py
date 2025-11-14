@@ -66,11 +66,8 @@ class ImageGenerator:
         if product_image_path:
             if self.product_model == 'kie_4o_image':
                 self.logger.info(f"🎨 Slide {slide.slide_number} → kie.ai 4o Image (UGC-style Product Integration)")
-                try:
-                    return await self._generate_kie_4o_image(slide, product_image_path)
-                except Exception as e:
-                    self.logger.warning(f"⚠️  kie.ai 4o Image failed: {e}, falling back to DALL-E 3")
-                    return await self._generate_dalle3(slide)
+                # NO FALLBACK - must use product image or fail
+                return await self._generate_kie_4o_image(slide, product_image_path)
             
             elif self.product_model == 'recraft':
                 self.logger.info(f"🎨 Slide {slide.slide_number} → Recraft V3 (Product Integration)")
