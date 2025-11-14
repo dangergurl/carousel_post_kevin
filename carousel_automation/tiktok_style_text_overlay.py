@@ -11,10 +11,10 @@ class TikTokStyleTextOverlay:
     def __init__(self):
         self.logger = logging.getLogger(__name__)
         
-        # TikTok-style configuration (PERFECT SETTINGS)
-        self.font_size = 60  # TEST 3: 60px
-        self.font_path = "/app/ProximaNovaSemibold.otf"  # Proxima Nova font ✓
-        self.outline_width = 3  # Reduced to 3px (one shade less)
+        # TikTok-style configuration (FINAL LOCKED SETTINGS)
+        self.font_size = 64  # ✅ FINAL: 64px
+        self.font_path = "/app/ProximaNovaSemibold.otf"  # Proxima Nova Semibold
+        self.outline_width = 3  # ✅ FINAL: 3px outline
         self.line_spacing = 10  # Tight spacing for punch
         
         # TikTok margins (centered, impactful)
