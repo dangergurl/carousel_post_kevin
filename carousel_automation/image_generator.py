@@ -294,8 +294,8 @@ class ImageGenerator:
                 
                 self.logger.info(f"📋 Task ID: {task_id}, polling for result...")
                 
-                # Poll for completion (max 180 seconds / 3 minutes)
-                max_attempts = 90
+                # Poll for completion (max 600 seconds / 10 minutes - kie.ai can be slow)
+                max_attempts = 300
                 for attempt in range(max_attempts):
                     await asyncio.sleep(2)  # Wait 2 seconds between polls
                     
