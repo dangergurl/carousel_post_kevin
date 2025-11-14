@@ -12,10 +12,10 @@ class TikTokStyleTextOverlay:
         self.logger = logging.getLogger(__name__)
         
         # TikTok-style configuration (ADJUSTED FOR REAL IMAGES)
-        self.font_size = 60  # Adjusted: 60px (looks right on real images)
+        self.font_size = 80  # INCREASED: 80px for better readability
         self.font_path = "/app/ProximaNovaSemibold.otf"  # Proxima Nova Semibold
-        self.outline_width = 3  # 3px outline
-        self.line_spacing = 10  # Tight spacing for punch
+        self.outline_width = 4  # 4px outline (scaled with font)
+        self.line_spacing = 12  # Tight spacing for punch
         
         # TikTok margins (centered, impactful)
         self.margin_percent = 0.15  # 15% margin on each side (70% width)
