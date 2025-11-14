@@ -1,0 +1,85 @@
+
+VSL Script for Omega-3 Fish Oil
+==================================================
+
+Product: Omega-3 Fish Oil
+Brand: OceanPure
+Price: $32.99
+Category: health supplements
+Style: TikTok-style (white text with dark outline)
+Product Model: RECRAFT
+
+SLIDES:
+
+Slide 1:
+Purpose: VSL Slide 1
+Script: I forgot to take my fish oil 3 days in a row last week. My brain felt so foggy, I couldn't focus at work. Sound familiar?
+Image Prompt: A stressed woman trying to focus at a cluttered desk, looking frustrated and exhausted. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 2:
+Purpose: VSL Slide 2
+Script: Turns out, omega-3 deficiency is a hidden epidemic. 95% of Americans don't get enough, leading to brain fog, fatigue, even mood swings. I had all the signs.
+Image Prompt: Collage of people looking tired, unfocused and irritable in various everyday settings. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 3:
+Purpose: VSL Slide 3
+Script: What doctors don't tell you: most fish oil supplements use low-grade fish, so you're basically just swallowing toxins. No wonder I still felt awful while taking them!
+Image Prompt: Dramatic image of polluted ocean water filled with trash and toxic waste next to dead fish. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 4:
+Purpose: VSL Slide 4
+Script: Then my sister, a health nut, told me about a new ultra-pure omega-3. She raved about how it transformed her mental clarity in days. I had to investigate.
+Image Prompt: Two sisters having coffee together, one excitedly showing a fish oil bottle to the other. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 5:
+Purpose: VSL Slide 5
+Script: Turns out, it's made from a special algae used by NASA to support astronauts' brain health in space. This patented algal oil is clinically shown to increase omega-3 levels by 50% in 2 weeks.
+Image Prompt: A futuristic laboratory setting with scientists in white coats examining glowing green algae specimens. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 6:
+Purpose: VSL Slide 6
+Script: My results:
+Day 3: Mental fog started lifting 
+Day 7: Focus and memory noticeably improved
+Week 2: Energy levels through the roof
+Week 4: My mood and outlook totally transformed
+Image Prompt: A series of 4 vertical images showing the woman from Slide 1 looking progressively happier, clearer and more energetic over time. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 7:
+Purpose: VSL Slide 7
+Script: Even my skeptical husband noticed. "What's gotten into you? You're like a new person!" My mom started taking it too and says she hasn't felt this sharp in years.
+Image Prompt: The woman and her husband looking amazed as they compare "before" and "after" photos of her. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 8:
+Purpose: VSL Slide 8
+Script: Now I have all-day mental clarity, laser focus, and unshakable positive moods. No more forgetting my car keys or zoning out in meetings. I feel 10 years younger.
+Image Prompt: The radiant, clear-eyed woman confidently leading a meeting at work, her colleagues looking impressed. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 9:
+Purpose: VSL Slide 9
+Script: The secret? OceanPure Omega-3. Clinically proven to boost omega-3 levels 5x more than fish oil. Sourced from NASA's brain-enhancing algae. No fishy aftertaste.
+Image Prompt: Sleek product shot of OceanPure Omega-3 bottle with NASA logo and clinical study results. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 10:
+Purpose: VSL Slide 10
+Script: OceanPure is flying off the shelves. 5-star rave reviews from health experts. Don't miss your chance to reclaim your mental clarity—get OceanPure before we sell out again!
+Image Prompt: Montage of 5-star reviews, medical endorsements, and customer testimonials surrounding OceanPure bottle. Ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+
+UPLOAD INSTRUCTIONS:
+1. Upload slides in order (vsl_slide_01.jpg, vsl_slide_02.jpg, etc.)
+2. Use TikTok Shop carousel format
+3. Each slide has professional text overlay with TikTok-style formatting
+4. Monitor engagement and adjust posting strategy as needed
+
+Created: 2025-11-14T11:42:35.893733
