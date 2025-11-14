@@ -203,9 +203,9 @@ class ImageGenerator:
                 "Content-Type": "application/json"
             }
             
-            # Upload payload
+            # Upload payload (note: parameter is base64Data, not base64)
             upload_payload = {
-                "base64": product_data,
+                "base64Data": product_data,
                 "uploadPath": "product-images",
                 "fileName": f"product_{slide.slide_number}_{os.path.basename(product_image_path)}"
             }
