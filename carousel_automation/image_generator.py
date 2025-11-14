@@ -181,9 +181,6 @@ class ImageGenerator:
             raise
     
 
-    async def _generate_kie_4o_image(self, slide: Any, product_image_path: str) -> str:
-        """🌟 Generate UGC-style image using kie.ai 4o Image API with product reference"""
-
     async def _generate_fal_nano_banana(self, slide: Any, product_image_path: str) -> str:
         """🌟 Generate UGC-style image using FAL.ai Nano Banana (Gemini 2.5 Flash Image) with product reference"""
         
