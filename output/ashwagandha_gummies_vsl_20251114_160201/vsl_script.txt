@@ -1,0 +1,81 @@
+
+VSL Script for Ashwagandha Gummies
+==================================================
+
+Product: Ashwagandha Gummies
+Brand: Goli Nutrition
+Price: $19.99
+Category: supplements
+Style: TikTok-style (white text with dark outline)
+Product Model: RECRAFT
+
+SLIDES:
+
+Slide 1:
+Purpose: VSL Slide 1
+Script: I forgot my best friend's birthday...for the third year in a row. 😔 She tried to laugh it off, but I could see the hurt in her eyes. My mind just wasn't as sharp as it used to be. Can you relate?
+Image Prompt: ultra photorealistic image of a woman with a concerned expression looking at her phone calendar, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 2:
+Purpose: VSL Slide 2
+Script: It started small—misplacing my keys, forgetting why I walked into a room. But it got worse. I'd space out during conversations and lose my train of thought mid-sentence. I felt like I was letting everyone down...especially myself. 😞
+Image Prompt: ultra photorealistic image of the same woman looking confused and frustrated in a messy room, keys and papers scattered around, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 3:
+Purpose: VSL Slide 3
+Script: I tried everything to get my focus back—brain training apps, ginkgo supplements, even those weird "smart drugs" 💊 my tech friends raved about. Nothing worked. But then I uncovered a hidden truth about stress and brain fog that doctors don't tell you...
+Image Prompt: ultra photorealistic image of various brain supplements and apps on a table, with the woman's frustrated hands in the frame, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 4:
+Purpose: VSL Slide 4
+Script: It all changed when my yoga instructor pulled me aside after class. She revealed an ancient herb that's been used in Ayurvedic medicine for centuries to promote mental clarity and resilience. 🌿 I was skeptical, but the science backed it up—ashwagandha was the real deal.
+Image Prompt: ultra photorealistic image of the woman's hand holding an ashwagandha leaf, with old Ayurvedic medicine books in the soft background, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 5:
+Purpose: VSL Slide 5
+Script: I dove into the research and was blown away. Ashwagandha has been clinically shown to improve memory, focus, and mental stamina. 🧠 It's even been used by Olympic athletes and NASA astronauts to stay sharp under pressure. This wasn't just some trendy supplement—it was a time-tested, scientifically-backed powerhouse.
+Image Prompt: ultra photorealistic image of a research paper on ashwagandha, with a microscope and petri dishes in a high-tech lab setting, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 6:
+Purpose: VSL Slide 6
+Script: I started taking ashwagandha daily, and the transformation was unreal. 😲 Day 3: I remembered a client's name without checking my notes. Day 7: I finished a project in record time without getting distracted. Week 2: My mind felt like a well-oiled machine—focused, sharp, and unstoppable. 🚀
+Image Prompt: ultra photorealistic image of the woman confidently leading a meeting, with colleagues looking engaged and impressed, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 7:
+Purpose: VSL Slide 7
+Script: But the real test came when my skeptical husband tried it. He's a total workaholic and was always stressed and scatterbrained. 🙇‍♂️ After just a week on ashwagandha, he was like a new man—focused, energized, and finally present with our kids. Even my mom noticed the difference and asked for my "secret." 🤫
+Image Prompt: ultra photorealistic image of the woman's husband playing attentively with their children in a cozy living room, a subtle smile on his face, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 8:
+Purpose: VSL Slide 8
+Script: Now, I feel like I can conquer anything. 💪 I'm laser-focused at work, I'm present with my loved ones, and I even remembered my best friend's birthday this year—with a week to spare! 🎉 Ashwagandha gave me the mental edge I thought I'd lost forever. But not all ashwagandha supplements are created equal...
+Image Prompt: ultra photorealistic image of the woman celebrating her friend's birthday, both laughing and hugging, with a beautifully wrapped gift in the foreground, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 9:
+Purpose: VSL Slide 9
+Script: That's why I trust Goli Ashwagandha Gummies. 🍬 They use the highest quality, clinically-proven KSM-66 ashwagandha, packed into a delicious mixed berry gummy. No weird powders or pills—just pure, potent ashwagandha in a tasty, easy-to-take form. 😋
+Image Prompt: ultra photorealistic image of Goli Ashwagandha Gummies in a clear bottle, with a hand reaching in to take one, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 10:
+Purpose: VSL Slide 10
+Script: Goli Ashwagandha Gummies have been a total game-changer for my mental clarity and focus. 🧠✨ But they're not always easy to get—they sell out FAST! 😱 Don't wait until brain fog and stress take over your life. Try Goli Ashwagandha Gummies now and experience the life-changing benefits for yourself! 🙌
+Image Prompt: ultra photorealistic image of the woman holding a Goli Ashwagandha Gummies bottle and smiling confidently at the camera, with a soft-focus park background, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+
+UPLOAD INSTRUCTIONS:
+1. Upload slides in order (vsl_slide_01.jpg, vsl_slide_02.jpg, etc.)
+2. Use TikTok Shop carousel format
+3. Each slide has professional text overlay with TikTok-style formatting
+4. Monitor engagement and adjust posting strategy as needed
+
+Created: 2025-11-14T16:02:01.287729

@@ -1,0 +1,72 @@
+{
+  "product_name": "Ashwagandha Gummies",
+  "product_price": 19.99,
+  "product_category": "supplements",
+  "brand": "Goli Nutrition",
+  "slide_count": 10,
+  "created_at": "2025-11-14T16:02:01.287729",
+  "overlay_style": "TikTok-style (white text with dark outline)",
+  "product_model": "recraft",
+  "slides": [
+    {
+      "slide_number": 1,
+      "script": "I forgot my best friend's birthday...for the third year in a row. \ud83d\ude14 She tried to laugh it off, but I could see the hurt in her eyes. My mind just wasn't as sharp as it used to be. Can you relate?",
+      "image_prompt": "ultra photorealistic image of a woman with a concerned expression looking at her phone calendar, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 1"
+    },
+    {
+      "slide_number": 2,
+      "script": "It started small\u2014misplacing my keys, forgetting why I walked into a room. But it got worse. I'd space out during conversations and lose my train of thought mid-sentence. I felt like I was letting everyone down...especially myself. \ud83d\ude1e",
+      "image_prompt": "ultra photorealistic image of the same woman looking confused and frustrated in a messy room, keys and papers scattered around, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 2"
+    },
+    {
+      "slide_number": 3,
+      "script": "I tried everything to get my focus back\u2014brain training apps, ginkgo supplements, even those weird \"smart drugs\" \ud83d\udc8a my tech friends raved about. Nothing worked. But then I uncovered a hidden truth about stress and brain fog that doctors don't tell you...",
+      "image_prompt": "ultra photorealistic image of various brain supplements and apps on a table, with the woman's frustrated hands in the frame, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 3"
+    },
+    {
+      "slide_number": 4,
+      "script": "It all changed when my yoga instructor pulled me aside after class. She revealed an ancient herb that's been used in Ayurvedic medicine for centuries to promote mental clarity and resilience. \ud83c\udf3f I was skeptical, but the science backed it up\u2014ashwagandha was the real deal.",
+      "image_prompt": "ultra photorealistic image of the woman's hand holding an ashwagandha leaf, with old Ayurvedic medicine books in the soft background, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 4"
+    },
+    {
+      "slide_number": 5,
+      "script": "I dove into the research and was blown away. Ashwagandha has been clinically shown to improve memory, focus, and mental stamina. \ud83e\udde0 It's even been used by Olympic athletes and NASA astronauts to stay sharp under pressure. This wasn't just some trendy supplement\u2014it was a time-tested, scientifically-backed powerhouse.",
+      "image_prompt": "ultra photorealistic image of a research paper on ashwagandha, with a microscope and petri dishes in a high-tech lab setting, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 5"
+    },
+    {
+      "slide_number": 6,
+      "script": "I started taking ashwagandha daily, and the transformation was unreal. \ud83d\ude32 Day 3: I remembered a client's name without checking my notes. Day 7: I finished a project in record time without getting distracted. Week 2: My mind felt like a well-oiled machine\u2014focused, sharp, and unstoppable. \ud83d\ude80",
+      "image_prompt": "ultra photorealistic image of the woman confidently leading a meeting, with colleagues looking engaged and impressed, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 6"
+    },
+    {
+      "slide_number": 7,
+      "script": "But the real test came when my skeptical husband tried it. He's a total workaholic and was always stressed and scatterbrained. \ud83d\ude47\u200d\u2642\ufe0f After just a week on ashwagandha, he was like a new man\u2014focused, energized, and finally present with our kids. Even my mom noticed the difference and asked for my \"secret.\" \ud83e\udd2b",
+      "image_prompt": "ultra photorealistic image of the woman's husband playing attentively with their children in a cozy living room, a subtle smile on his face, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 7"
+    },
+    {
+      "slide_number": 8,
+      "script": "Now, I feel like I can conquer anything. \ud83d\udcaa I'm laser-focused at work, I'm present with my loved ones, and I even remembered my best friend's birthday this year\u2014with a week to spare! \ud83c\udf89 Ashwagandha gave me the mental edge I thought I'd lost forever. But not all ashwagandha supplements are created equal...",
+      "image_prompt": "ultra photorealistic image of the woman celebrating her friend's birthday, both laughing and hugging, with a beautifully wrapped gift in the foreground, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 8"
+    },
+    {
+      "slide_number": 9,
+      "script": "That's why I trust Goli Ashwagandha Gummies. \ud83c\udf6c They use the highest quality, clinically-proven KSM-66 ashwagandha, packed into a delicious mixed berry gummy. No weird powders or pills\u2014just pure, potent ashwagandha in a tasty, easy-to-take form. \ud83d\ude0b",
+      "image_prompt": "ultra photorealistic image of Goli Ashwagandha Gummies in a clear bottle, with a hand reaching in to take one, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 9"
+    },
+    {
+      "slide_number": 10,
+      "script": "Goli Ashwagandha Gummies have been a total game-changer for my mental clarity and focus. \ud83e\udde0\u2728 But they're not always easy to get\u2014they sell out FAST! \ud83d\ude31 Don't wait until brain fog and stress take over your life. Try Goli Ashwagandha Gummies now and experience the life-changing benefits for yourself! \ud83d\ude4c",
+      "image_prompt": "ultra photorealistic image of the woman holding a Goli Ashwagandha Gummies bottle and smiling confidently at the camera, with a soft-focus park background, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 10"
+    }
+  ]
+}
