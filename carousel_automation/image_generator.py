@@ -224,16 +224,18 @@ class ImageGenerator:
                         raise Exception(f"kie.ai API error (status {response.status}): {error_text}")
                     
                     task_result = await response.json()
-                    self.logger.info(f"✅ Task submitted to kie.ai")
+                    self.logger.info(f"✅ Task submitted to kie.ai: {task_result}")
                 
                 # Extract task ID from response
-                if 'data' in task_result and 'taskId' in task_result['data']:
+                task_id = None
+                if task_result and 'data' in task_result and task_result['data'] and 'taskId' in task_result['data']:
                     task_id = task_result['data']['taskId']
-                elif 'taskId' in task_result:
+                elif task_result and 'taskId' in task_result:
                     task_id = task_result['taskId']
-                elif 'id' in task_result:
+                elif task_result and 'id' in task_result:
                     task_id = task_result['id']
-                else:
+                
+                if not task_id:
                     raise Exception(f"No taskId found in response: {task_result}")
                 
                 self.logger.info(f"📋 Task ID: {task_id}, polling for result...")
