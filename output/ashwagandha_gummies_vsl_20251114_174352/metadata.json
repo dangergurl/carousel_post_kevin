@@ -1,0 +1,72 @@
+{
+  "product_name": "Ashwagandha Gummies",
+  "product_price": 19.99,
+  "product_category": "general",
+  "brand": "Goli",
+  "slide_count": 10,
+  "created_at": "2025-11-14T17:43:52.808863",
+  "overlay_style": "TikTok-style (white text with dark outline)",
+  "product_model": "kie_4o_image",
+  "slides": [
+    {
+      "slide_number": 1,
+      "script": "I forgot my anniversary. Again. My wife was furious, but I couldn't help it. Stress and anxiety were taking over my life.",
+      "image_prompt": "A stressed man sitting on a couch with his head in his hands, a calendar with a circled date in the background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 1"
+    },
+    {
+      "slide_number": 2,
+      "script": "It wasn't just the big things. I was snapping at my kids, forgetting basic tasks at work. I felt like I was losing control.",
+      "image_prompt": "A man yelling at his children in a kitchen, a stack of unfinished paperwork on the counter, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 2"
+    },
+    {
+      "slide_number": 3,
+      "script": "I tried meditation, exercise, even prescription meds. Nothing worked. Then I overheard something shocking at the gym...",
+      "image_prompt": "Two men talking at a gym, one looking surprised, with exercise equipment in the background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 3"
+    },
+    {
+      "slide_number": 4,
+      "script": "Turns out, an ancient herb called Ashwagandha has been used for centuries to calm the mind and body. Even top doctors recommend it.",
+      "image_prompt": "A doctor in a white coat holding an Ashwagandha plant, with ancient Indian temple carvings in the background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 4"
+    },
+    {
+      "slide_number": 5,
+      "script": "I did some research. Ashwagandha has been clinically proven to reduce stress by 44%, with effects comparable to prescription anxiety meds.",
+      "image_prompt": "A scientific journal article about Ashwagandha, with graphs showing stress reduction, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 5"
+    },
+    {
+      "slide_number": 6,
+      "script": "I decided to try it. Day 3: I noticed I was less irritable. Day 7: My focus at work improved. By week 2, I felt like a new man.",
+      "image_prompt": "A smiling man playing with his kids in a park, a calendar showing a 2 week timeline in the corner, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 6"
+    },
+    {
+      "slide_number": 7,
+      "script": "My wife was skeptical at first, but now she's a believer. \"I feel like I finally got my husband back,\" she told me last week.",
+      "image_prompt": "A happy couple embracing, the woman whispering in the man's ear with a smile, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 7"
+    },
+    {
+      "slide_number": 8,
+      "script": "Now I'm calmer, more present, and sleeping better than I have in years. It's not just me - my whole family can feel the difference.",
+      "image_prompt": "A man sleeping peacefully in bed, a family photo on the nightstand, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 8"
+    },
+    {
+      "slide_number": 9,
+      "script": "The secret? Goli Ashwagandha Gummies. Made with the highest quality organic Ashwagandha, in a delicious mixed berry flavor.",
+      "image_prompt": "A hand holding a bottle of Goli Ashwagandha Gummies, with organic Ashwagandha plants and berries in the background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 9"
+    },
+    {
+      "slide_number": 10,
+      "script": "Don't wait until stress takes over your life. Try Goli Ashwagandha Gummies now - your family will thank you. I know mine did.",
+      "image_prompt": "A smiling family embracing each other, with a bottle of Goli Ashwagandha Gummies in the foreground, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 10"
+    }
+  ]
+}
