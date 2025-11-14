@@ -181,59 +181,99 @@ class ImageGenerator:
         self.logger.info(f"🎨 kie.ai Flux Kontext prompt for slide {slide.slide_number}: {enhanced_prompt[:100]}...")
         
         try:
-            # Read and encode product image as base64
+            # First, upload the product image and get a URL
+            # We'll use a simple image hosting approach via base64 data URL
             import base64
+            from PIL import Image as PILImage
+            
+            # Read and encode product image as base64 for data URL
             with open(product_image_path, 'rb') as f:
                 product_data = base64.b64encode(f.read()).decode('utf-8')
             
-            self.logger.info(f"📤 Uploading product reference to kie.ai...")
+            # Create a data URL for the product image
+            product_url = f"data:image/jpeg;base64,{product_data}"
             
-            # Prepare request payload
+            self.logger.info(f"📤 Sending product reference to kie.ai...")
+            
+            # Prepare request headers
             headers = {
                 "Authorization": f"Bearer {Config.KIE_AI_API_KEY}",
                 "Content-Type": "application/json"
             }
             
+            # Payload for kie.ai Flux Kontext API
             payload = {
                 "prompt": enhanced_prompt,
-                "filesBase64": [product_data],  # Pass product image as base64
-                "aspectRatio": "2:3",  # Closest to 9:16 that kie.ai supports
-                "model": "flux-kontext-pro",  # Use pro model for better quality
-                "nVariants": 1
+                "inputImage": product_url,  # Input image for editing/integration
+                "aspectRatio": "9:16",  # Vertical format
+                "model": "flux-kontext-pro",  # Pro model for quality
+                "outputFormat": "jpeg"
             }
             
-            # Make async request to kie.ai
+            # Submit task to kie.ai
             async with aiohttp.ClientSession() as session:
+                self.logger.info(f"🚀 Submitting task to kie.ai Flux Kontext API...")
                 async with session.post(
-                    "https://api.kie.ai/api/v1/flux-kontext/generate",
+                    "https://api.kie.ai/v1/flux-kontext/generate-or-edit-image",
                     headers=headers,
                     json=payload,
-                    timeout=aiohttp.ClientTimeout(total=120)
+                    timeout=aiohttp.ClientTimeout(total=30)
                 ) as response:
                     
                     if response.status != 200:
                         error_text = await response.text()
                         raise Exception(f"kie.ai API error (status {response.status}): {error_text}")
                     
-                    result = await response.json()
-                    self.logger.info(f"✅ kie.ai response received")
-            
-            # Extract image URL from response
-            if 'images' in result and len(result['images']) > 0:
-                image_url = result['images'][0]['url']
-            elif 'imageUrl' in result:
-                image_url = result['imageUrl']
-            elif 'data' in result and 'images' in result['data']:
-                image_url = result['data']['images'][0]['url']
-            else:
-                raise Exception(f"Unexpected response format from kie.ai: {result}")
+                    task_result = await response.json()
+                    self.logger.info(f"✅ Task submitted to kie.ai")
+                
+                # Extract task ID from response
+                if 'data' in task_result and 'taskId' in task_result['data']:
+                    task_id = task_result['data']['taskId']
+                elif 'taskId' in task_result:
+                    task_id = task_result['taskId']
+                elif 'id' in task_result:
+                    task_id = task_result['id']
+                else:
+                    raise Exception(f"No taskId found in response: {task_result}")
+                
+                self.logger.info(f"📋 Task ID: {task_id}, polling for result...")
+                
+                # Poll for completion (max 60 seconds)
+                max_attempts = 30
+                for attempt in range(max_attempts):
+                    await asyncio.sleep(2)  # Wait 2 seconds between polls
+                    
+                    async with session.get(
+                        f"https://api.kie.ai/v1/flux-kontext/get-image-details/{task_id}",
+                        headers=headers,
+                        timeout=aiohttp.ClientTimeout(total=10)
+                    ) as status_response:
+                        
+                        if status_response.status != 200:
+                            continue
+                        
+                        status_data = await status_response.json()
+                        
+                        # Check if task is complete
+                        if 'data' in status_data:
+                            data = status_data['data']
+                            if data.get('status') == 'completed' and 'imageUrl' in data:
+                                image_url = data['imageUrl']
+                                self.logger.info(f"✅ Image ready: {image_url}")
+                                break
+                        elif 'imageUrl' in status_data:
+                            image_url = status_data['imageUrl']
+                            self.logger.info(f"✅ Image ready: {image_url}")
+                            break
+                else:
+                    raise Exception(f"Task {task_id} did not complete within timeout")
             
             # Download and save image
             filename = f"slide_{slide.slide_number}_kie_flux_kontext.jpg"
             local_path = await download_image(image_url, Config.TEMP_DIRECTORY, filename)
             
             # Resize to exact 1080x1920 dimensions
-            from PIL import Image as PILImage
             img = PILImage.open(local_path)
             if img.size != (1080, 1920):
                 self.logger.info(f"📐 Resizing kie.ai image from {img.size} to 1080x1920...")
