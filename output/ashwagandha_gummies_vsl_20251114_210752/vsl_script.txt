@@ -1,0 +1,81 @@
+
+VSL Script for Ashwagandha Gummies
+==================================================
+
+Product: Ashwagandha Gummies
+Brand: Goli
+Price: $19.99
+Category: general
+Style: TikTok-style (white text with dark outline)
+Product Model: FAL_NANO_BANANA
+
+SLIDES:
+
+Slide 1:
+Purpose: VSL Slide 1
+Script: I forgot my anniversary... for the 3rd year in a row. 😞 My wife was devastated. I felt like the worst husband ever.
+Image Prompt: Sad man sitting on couch with head in hands, anniversary card on table, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 2:
+Purpose: VSL Slide 2
+Script: Stress was taking over my life. I was forgetting important dates, losing my temper over little things, tossing and turning all night. Sound familiar? 😴
+Image Prompt: Tired man rubbing temples at cluttered desk, clock showing 2am, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 3:
+Purpose: VSL Slide 3
+Script: What doctors won't tell you... chronic stress is silently killing you. While I was struggling, my sister (a nurse) shared a hidden truth from ancient Indian medicine... 🇮🇳
+Image Prompt: Serene woman in nurse scrubs whispering in stressed man's ear, Indian mandala pattern in background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 4:
+Purpose: VSL Slide 4
+Script: She told me about an herb called Ashwagandha, used for centuries to calm the mind and restore balance. I was skeptical... until I saw the science. 🔬
+Image Prompt: Ashwagandha plant and root, medical research papers and microscope in background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 5:
+Purpose: VSL Slide 5
+Script: Over 200 research studies back it up. Doctors prescribe it for anxiety. Even the NIH calls it a "rejuvenator." I had to try it for myself. 💊
+Image Prompt: Doctor handing Ashwagandha capsules to patient, NIH logo and research charts in background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 6:
+Purpose: VSL Slide 6
+Script: Day 3: I slept through the night for the first time in months. 😴 Day 7: My wife said I seemed calmer. 🙏 Week 2: I was tackling my to-do list like a boss. 💪
+Image Prompt: Smiling man sleeping peacefully, wife looking happy, man confidently working at desk, calendar showing timeline, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 7:
+Purpose: VSL Slide 7
+Script: My skeptical brother started taking it too. He called me a week later saying "Dude, this stuff is magic! 🪄 I feel like a new man." Even my mom noticed the difference.
+Image Prompt: Two smiling brothers high-fiving, elderly mom looking proud, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 8:
+Purpose: VSL Slide 8
+Script: Now I'm focused, energized and unflappable. I'm a better husband, father and friend. And I never miss an anniversary. 😉 The secret? 🤫
+Image Prompt: Happy family hugging, man holding anniversary gift and card, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 9:
+Purpose: VSL Slide 9
+Script: Goli Ashwagandha Gummies. The only clinically proven, patented KSM-66 Ashwagandha in a delicious mixed berry gummy. Doctor formulated, allergen-free, and loved by millions. 🍇
+Image Prompt: Goli Ashwagandha Gummies bottle and gummies spilling out, doctor's hand holding gummy, mixed berries in background, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+Slide 10:
+Purpose: VSL Slide 10
+Script: Don't wait until stress ruins another special moment. Try Goli risk-free for 30 days. If you don't feel the difference, it's on us. 🙌 Tap to reclaim your calm now before we sell out again!
+Image Prompt: Stressed man transforming into smiling, calm man, Goli bottle in foreground, 30-day guarantee badge, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format
+---
+
+
+UPLOAD INSTRUCTIONS:
+1. Upload slides in order (vsl_slide_01.jpg, vsl_slide_02.jpg, etc.)
+2. Use TikTok Shop carousel format
+3. Each slide has professional text overlay with TikTok-style formatting
+4. Monitor engagement and adjust posting strategy as needed
+
+Created: 2025-11-14T21:07:52.858262
