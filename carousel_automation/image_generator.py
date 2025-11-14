@@ -507,6 +507,22 @@ class ImageGenerator:
         
         return f"{base_prompt}, {', '.join(flux_enhancements)}"
     
+
+    def _enhance_prompt_for_ugc(self, base_prompt: str) -> str:
+        """Enhance prompt for UGC-style (natural, authentic) content"""
+        
+        ugc_enhancements = [
+            "authentic UGC-style photo",
+            "natural lighting",
+            "real person perspective",
+            "candid and relatable",
+            "mobile phone photography aesthetic",
+            "vertical 9:16 format",
+            "lifestyle setting"
+        ]
+        
+        return f"{base_prompt}, {', '.join(ugc_enhancements)}"
+
     async def _generate_fallback_image(self, slide: Any) -> str:
         """Generate simple fallback image if all services fail"""
         
