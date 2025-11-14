@@ -94,3 +94,7 @@ test_result.md
 # API keys
 *_key.txt
 *_token.txt
+-e 
+# Environment files
+*.env
+*.env.*
