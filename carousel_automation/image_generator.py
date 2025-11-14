@@ -237,24 +237,23 @@ class ImageGenerator:
                     
                     self.logger.info(f"✅ Product image uploaded: {product_url}")
             
-            self.logger.info(f"📤 Sending product reference to kie.ai 4o Image API...")
-            
-            # Prepare request headers
-            headers = {
-                "Authorization": f"Bearer {Config.KIE_AI_API_KEY}",
-                "Content-Type": "application/json"
-            }
-            
-            # Payload for kie.ai 4o Image API
-            payload = {
-                "prompt": enhanced_prompt,
-                "filesUrl": [product_url],  # Reference image(s) - up to 5 supported
-                "numVariations": 1,
-                "size": "2:3"  # Closest to 9:16 vertical
-            }
-            
-            # Submit task to kie.ai
-            async with aiohttp.ClientSession() as session:
+                self.logger.info(f"📤 Sending generation request to kie.ai 4o Image API...")
+                
+                # Prepare request headers
+                headers = {
+                    "Authorization": f"Bearer {Config.KIE_AI_API_KEY}",
+                    "Content-Type": "application/json"
+                }
+                
+                # Payload for kie.ai 4o Image API
+                payload = {
+                    "prompt": enhanced_prompt,
+                    "filesUrl": [product_url],  # Reference image(s) - now a public URL
+                    "numVariations": 1,
+                    "size": "2:3"  # Closest to 9:16 vertical
+                }
+                
+                # Submit task to kie.ai
                 self.logger.info(f"🚀 Submitting task to kie.ai 4o Image API...")
                 async with session.post(
                     "https://api.kie.ai/api/v1/gpt4o-image/generate",
