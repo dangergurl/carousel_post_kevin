@@ -14,7 +14,7 @@ class TikTokStyleTextOverlay:
         # TikTok-style configuration (ADJUSTED FOR REAL IMAGES)
         self.font_size = 75  # 75px for optimal readability
         self.font_path = "/app/ProximaNovaSemibold.otf"  # Proxima Nova Semibold
-        self.outline_width = 4  # 4px outline (scaled with font)
+        self.outline_width = 6  # 6px outline (extra bold for impact)
         self.line_spacing = 12  # Tight spacing for punch
         
         # TikTok margins (centered, impactful)
