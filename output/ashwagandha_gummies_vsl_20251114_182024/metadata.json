@@ -1,0 +1,72 @@
+{
+  "product_name": "Ashwagandha Gummies",
+  "product_price": 19.99,
+  "product_category": "general",
+  "brand": "Goli",
+  "slide_count": 10,
+  "created_at": "2025-11-14T18:20:24.991198",
+  "overlay_style": "TikTok-style (white text with dark outline)",
+  "product_model": "kie_4o_image",
+  "slides": [
+    {
+      "slide_number": 1,
+      "script": "I forgot my best friend's birthday...for the 3rd year in a row. I felt like the worst friend ever. My mind was so foggy, I could barely keep track of what day it was anymore.",
+      "image_prompt": "Stressed woman sitting at desk with head in hands, calendar with missed birthdays circled in red, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 1"
+    },
+    {
+      "slide_number": 2,
+      "script": "Turns out, I wasn't alone. My sister told me she kept losing her keys and walking into rooms forgetting why she was there. We laughed it off as \"mom brain\" but deep down, I was worried.",
+      "image_prompt": "Two women talking over coffee with concerned expressions, keys and sticky note reminders scattered on table, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 2"
+    },
+    {
+      "slide_number": 3,
+      "script": "What doctors don't tell you is that chronic stress can literally shrink your brain. While I was struggling to focus at work, my body was secretly sabotaging my mental clarity.",
+      "image_prompt": "Doctor showing brain scans to worried patient, areas of brain visibly shrunken and highlighted, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 3"
+    },
+    {
+      "slide_number": 4,
+      "script": "Then one day, my yoga instructor pulled me aside after class. She said she'd noticed how scattered I seemed and asked if I'd ever heard of ashwagandha. I was skeptical, but desperate to try anything.",
+      "image_prompt": "Yoga instructor comforting stressed woman after class, holding bottle of ashwagandha capsules, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 4"
+    },
+    {
+      "slide_number": 5,
+      "script": "Turns out, ashwagandha has been used for centuries in Ayurvedic medicine to reduce stress and sharpen focus. It's even been shown in studies to improve memory and reaction times. I was shocked I'd never heard of it before.",
+      "image_prompt": "Ancient Ayurvedic medicine texts and herbs next to modern scientific research papers and brain scans, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 5"
+    },
+    {
+      "slide_number": 6,
+      "script": "Within days of taking ashwagandha daily, I started noticing little changes. By day 7, I wasn't losing my keys anymore. At 2 weeks, I felt more focused and clearheaded at work than I had in years.",
+      "image_prompt": "Smiling woman easily finding keys, excelling at work with focused expression, calendar showing 2 week timeline, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 6"
+    },
+    {
+      "slide_number": 7,
+      "script": "Even my husband noticed the difference. He said I seemed happier and less anxious. My best friend joked that she might need to try ashwagandha herself so I'd finally remember her birthday!",
+      "image_prompt": "Husband hugging calm, smiling wife, best friends laughing together at inside joke, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 7"
+    },
+    {
+      "slide_number": 8,
+      "script": "Now, I'm able to be the friend, wife, and mom I want to be. No more mom brain, no more forgotten birthdays. I feel like I'm finally thriving instead of just surviving each day.",
+      "image_prompt": "Woman confidently juggling work, family, and social life with ease, big smile on her face, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 8"
+    },
+    {
+      "slide_number": 9,
+      "script": "The ashwagandha supplement that changed everything for me? Goli Ashwagandha Gummies. Organic, plant-based, and clinically proven to reduce stress by 44% in just 2 months.",
+      "image_prompt": "Hand holding bottle of Goli Ashwagandha Gummies, callouts showing organic, plant-based, and 44% stress reduction, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 9"
+    },
+    {
+      "slide_number": 10,
+      "script": "Don't wait until you forget something really important. Try Goli Ashwagandha Gummies for yourself and feel the difference in as little as 7 days. Your future self (and friends) will thank you.",
+      "image_prompt": "Smiling woman looking in mirror with post-it note that says \"Don't forget, you've got this!\", bottle of Goli Ashwagandha Gummies on counter, ultra photorealistic, 16k, natural lighting, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field, --s 750, 9:16 vertical format",
+      "purpose": "VSL Slide 10"
+    }
+  ]
+}
